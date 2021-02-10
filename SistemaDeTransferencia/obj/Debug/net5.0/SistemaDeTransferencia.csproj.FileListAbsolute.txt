@@ -1,0 +1,16 @@
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\bin\Debug\net5.0\SistemaDeTransferencia.exe
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\bin\Debug\net5.0\SistemaDeTransferencia.deps.json
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\bin\Debug\net5.0\SistemaDeTransferencia.runtimeconfig.json
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\bin\Debug\net5.0\SistemaDeTransferencia.runtimeconfig.dev.json
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\bin\Debug\net5.0\SistemaDeTransferencia.dll
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\bin\Debug\net5.0\ref\SistemaDeTransferencia.dll
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\bin\Debug\net5.0\SistemaDeTransferencia.pdb
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\SistemaDeTransferencia.csprojAssemblyReference.cache
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\SistemaDeTransferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\SistemaDeTransferencia.AssemblyInfoInputs.cache
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\SistemaDeTransferencia.AssemblyInfo.cs
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\SistemaDeTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\SistemaDeTransferencia.dll
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\ref\SistemaDeTransferencia.dll
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\SistemaDeTransferencia.pdb
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaDeTransferencia\obj\Debug\net5.0\SistemaDeTransferencia.genruntimeconfig.cache

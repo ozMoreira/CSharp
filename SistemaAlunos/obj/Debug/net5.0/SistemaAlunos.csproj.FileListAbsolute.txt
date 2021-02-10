@@ -1,0 +1,16 @@
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\bin\Debug\net5.0\SistemaAlunos.exe
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\bin\Debug\net5.0\SistemaAlunos.deps.json
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\bin\Debug\net5.0\SistemaAlunos.runtimeconfig.json
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\bin\Debug\net5.0\SistemaAlunos.runtimeconfig.dev.json
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\bin\Debug\net5.0\SistemaAlunos.dll
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\bin\Debug\net5.0\ref\SistemaAlunos.dll
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\bin\Debug\net5.0\SistemaAlunos.pdb
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\SistemaAlunos.csprojAssemblyReference.cache
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\SistemaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\SistemaAlunos.AssemblyInfoInputs.cache
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\SistemaAlunos.AssemblyInfo.cs
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\SistemaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\SistemaAlunos.dll
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\ref\SistemaAlunos.dll
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\SistemaAlunos.pdb
+C:\Users\maria eugenia\Documents\workspace\CSharp\SistemaAlunos\SistemaAlunos\obj\Debug\net5.0\SistemaAlunos.genruntimeconfig.cache
