@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aumento_Salarial_POO", "Aum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boletim_Aluno_POO", "Boletim_Aluno_POO\Boletim_Aluno_POO.csproj", "{C0EBE2B0-B5FA-44E1-8360-EA01E0B44728}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Circulos_POO", "Calc_Circulos_POO\Calc_Circulos_POO.csproj", "{E6552DB5-2620-4908-83A5-E1A4121260D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C0EBE2B0-B5FA-44E1-8360-EA01E0B44728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0EBE2B0-B5FA-44E1-8360-EA01E0B44728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0EBE2B0-B5FA-44E1-8360-EA01E0B44728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6552DB5-2620-4908-83A5-E1A4121260D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6552DB5-2620-4908-83A5-E1A4121260D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6552DB5-2620-4908-83A5-E1A4121260D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6552DB5-2620-4908-83A5-E1A4121260D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +103,7 @@ Global
 		{391A0C00-C770-4041-A2FB-690E6D089EF3} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{C0EBE2B0-B5FA-44E1-8360-EA01E0B44728} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
+		{E6552DB5-2620-4908-83A5-E1A4121260D0} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
