@@ -4,15 +4,15 @@ namespace Estoque_Simples_POO {
     class Program {
         static void Main(string[] args) {
 
-            Produto p = new Produto();
-
             Console.WriteLine("Entre os dados do produto: ");
             Console.Write("Nome: >>> ");
-            p.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.Write("Preço: >>> R$ ");
-            p.Preco = double.Parse(Console.ReadLine());
+            double preco = double.Parse(Console.ReadLine());
             Console.Write("Quantidade em Estoque: >>> ");
-            p.Quantidade = int.Parse(Console.ReadLine());
+            int quantidade = int.Parse(Console.ReadLine());
+
+            Produto p = new Produto(nome, preco, quantidade);
 
             Console.WriteLine("\n\nDados do Produto: " + p);
 
