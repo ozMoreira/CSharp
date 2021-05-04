@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\bin\Debug\netcoreapp3.1\Boletim_Aluno_POO.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\bin\Debug\netcoreapp3.1\Boletim_Aluno_POO.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\bin\Debug\netcoreapp3.1\Boletim_Aluno_POO.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\bin\Debug\netcoreapp3.1\Boletim_Aluno_POO.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\bin\Debug\netcoreapp3.1\Boletim_Aluno_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\bin\Debug\netcoreapp3.1\Boletim_Aluno_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\obj\Debug\netcoreapp3.1\Boletim_Aluno_POO.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\obj\Debug\netcoreapp3.1\Boletim_Aluno_POO.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\obj\Debug\netcoreapp3.1\Boletim_Aluno_POO.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\obj\Debug\netcoreapp3.1\Boletim_Aluno_POO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\obj\Debug\netcoreapp3.1\Boletim_Aluno_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\obj\Debug\netcoreapp3.1\Boletim_Aluno_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Boletim_Aluno_POO\obj\Debug\netcoreapp3.1\Boletim_Aluno_POO.genruntimeconfig.cache
