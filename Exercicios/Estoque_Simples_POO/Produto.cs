@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Estoque_Simples_POO {
+﻿namespace Estoque_Simples_POO {
     class Produto {
         public string Nome;
         public double Preco;
@@ -21,11 +17,8 @@ namespace Estoque_Simples_POO {
         public override string ToString() {
             return Nome +
                 "\nPreço Unitário: R$ " + Preco.ToString("F2") +
-                "\nQuantidade Disponível: " + Quantidade + 
+                "\nQuantidade Disponível: " + Quantidade +
                 "\nValor Total do Estoque: R$ " + ValorTotalEmEstoque().ToString("F2");
         }
-
-      
-
     }
 }

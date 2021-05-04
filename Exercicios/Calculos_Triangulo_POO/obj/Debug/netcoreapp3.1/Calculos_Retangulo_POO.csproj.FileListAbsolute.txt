@@ -1,0 +1,12 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\bin\Debug\netcoreapp3.1\Calculos_Retangulo_POO.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\bin\Debug\netcoreapp3.1\Calculos_Retangulo_POO.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\bin\Debug\netcoreapp3.1\Calculos_Retangulo_POO.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\bin\Debug\netcoreapp3.1\Calculos_Retangulo_POO.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\bin\Debug\netcoreapp3.1\Calculos_Retangulo_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\bin\Debug\netcoreapp3.1\Calculos_Retangulo_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\obj\Debug\netcoreapp3.1\Calculos_Retangulo_POO.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\obj\Debug\netcoreapp3.1\Calculos_Retangulo_POO.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\obj\Debug\netcoreapp3.1\Calculos_Retangulo_POO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\obj\Debug\netcoreapp3.1\Calculos_Retangulo_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\obj\Debug\netcoreapp3.1\Calculos_Retangulo_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculos_Triangulo_POO\obj\Debug\netcoreapp3.1\Calculos_Retangulo_POO.genruntimeconfig.cache

@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media_Salarial_POO", "Media
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque_Simples_POO", "Estoque_Simples_POO\Estoque_Simples_POO.csproj", "{4F6677F8-EC1D-494D-8FA7-167F9E820859}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculos_Retangulo_POO", "Calculos_Triangulo_POO\Calculos_Retangulo_POO.csproj", "{391A0C00-C770-4041-A2FB-690E6D089EF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4F6677F8-EC1D-494D-8FA7-167F9E820859}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F6677F8-EC1D-494D-8FA7-167F9E820859}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F6677F8-EC1D-494D-8FA7-167F9E820859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391A0C00-C770-4041-A2FB-690E6D089EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391A0C00-C770-4041-A2FB-690E6D089EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391A0C00-C770-4041-A2FB-690E6D089EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391A0C00-C770-4041-A2FB-690E6D089EF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{40E29FC4-1C3A-4D0B-9F55-6A41E3F0E1ED} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{CE44A092-68B8-4CD5-B4A9-56ABDE37A001} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{4F6677F8-EC1D-494D-8FA7-167F9E820859} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
+		{391A0C00-C770-4041-A2FB-690E6D089EF3} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
