@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boletim_Aluno_POO", "Boleti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Circulos_POO", "Calc_Circulos_POO\Calc_Circulos_POO.csproj", "{E6552DB5-2620-4908-83A5-E1A4121260D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Compra_Dolar_POO_Membros_Estaticos", "Calc_Compra_Dolar_POO_Membros_Estaticos\Calc_Compra_Dolar_POO_Membros_Estaticos.csproj", "{223982E6-EE67-4D12-A692-DCE2E74349A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{E6552DB5-2620-4908-83A5-E1A4121260D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6552DB5-2620-4908-83A5-E1A4121260D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6552DB5-2620-4908-83A5-E1A4121260D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223982E6-EE67-4D12-A692-DCE2E74349A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223982E6-EE67-4D12-A692-DCE2E74349A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223982E6-EE67-4D12-A692-DCE2E74349A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223982E6-EE67-4D12-A692-DCE2E74349A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{C0EBE2B0-B5FA-44E1-8360-EA01E0B44728} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{E6552DB5-2620-4908-83A5-E1A4121260D0} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
+		{223982E6-EE67-4D12-A692-DCE2E74349A0} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
