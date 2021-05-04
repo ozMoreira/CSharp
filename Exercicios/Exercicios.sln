@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque_Simples_POO", "Esto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculos_Retangulo_POO", "Calculos_Triangulo_POO\Calculos_Retangulo_POO.csproj", "{391A0C00-C770-4041-A2FB-690E6D089EF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aumento_Salarial_POO", "Aumento_Salarial_POO\Aumento_Salarial_POO.csproj", "{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{391A0C00-C770-4041-A2FB-690E6D089EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{391A0C00-C770-4041-A2FB-690E6D089EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{391A0C00-C770-4041-A2FB-690E6D089EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +89,7 @@ Global
 		{CE44A092-68B8-4CD5-B4A9-56ABDE37A001} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{4F6677F8-EC1D-494D-8FA7-167F9E820859} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{391A0C00-C770-4041-A2FB-690E6D089EF3} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
+		{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
