@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Media_Salarial_POO\\Media_Salarial_POO.csproj",
+      "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Media_Salarial_POO\\Media_Salarial_POO.csproj",
       "projectName": "Media_Salarial_POO",
-      "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Media_Salarial_POO\\Media_Salarial_POO.csproj",
+      "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Media_Salarial_POO\\Media_Salarial_POO.csproj",
       "packagesPath": "C:\\Users\\Oz\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Media_Salarial_POO\\obj\\",
+      "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Media_Salarial_POO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

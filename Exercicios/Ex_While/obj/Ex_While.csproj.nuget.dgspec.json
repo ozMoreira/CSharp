@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Ex_While\\Ex_While.csproj": {}
+    "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Ex_While\\Ex_While.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Ex_While\\Ex_While.csproj": {
+    "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Ex_While\\Ex_While.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Ex_While\\Ex_While.csproj",
+        "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Ex_While\\Ex_While.csproj",
         "projectName": "Ex_While",
-        "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Ex_While\\Ex_While.csproj",
+        "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Ex_While\\Ex_While.csproj",
         "packagesPath": "C:\\Users\\Oz\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Ex_While\\obj\\",
+        "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Ex_While\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

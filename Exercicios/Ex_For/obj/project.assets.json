@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Ex_For\\Ex_For.csproj",
+      "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Ex_For\\Ex_For.csproj",
       "projectName": "Ex_For",
-      "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Ex_For\\Ex_For.csproj",
+      "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Ex_For\\Ex_For.csproj",
       "packagesPath": "C:\\Users\\Oz\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Ex_For\\obj\\",
+      "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Ex_For\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

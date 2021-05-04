@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Mais_Velho_POO\\Mais_Velho_POO.csproj": {}
+    "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Mais_Velho_POO\\Mais_Velho_POO.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Mais_Velho_POO\\Mais_Velho_POO.csproj": {
+    "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Mais_Velho_POO\\Mais_Velho_POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Mais_Velho_POO\\Mais_Velho_POO.csproj",
+        "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Mais_Velho_POO\\Mais_Velho_POO.csproj",
         "projectName": "Mais_Velho_POO",
-        "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Mais_Velho_POO\\Mais_Velho_POO.csproj",
+        "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Mais_Velho_POO\\Mais_Velho_POO.csproj",
         "packagesPath": "C:\\Users\\Oz\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\Exercicios\\Mais_Velho_POO\\obj\\",
+        "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Mais_Velho_POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

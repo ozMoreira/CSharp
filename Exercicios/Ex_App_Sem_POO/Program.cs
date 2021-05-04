@@ -18,11 +18,8 @@ namespace Ex_App_POO {
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaX = x.Area();
+            double areaY = y.Area();
 
             Console.WriteLine("\n\nÁrea de 'X'  = " + areaX.ToString("F4"));
             Console.WriteLine("Área de 'y'  = " + areaY.ToString("F4"));
