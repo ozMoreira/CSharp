@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\bin\Debug\netcoreapp3.1\Ex_App_Sem_POO.exe
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\bin\Debug\netcoreapp3.1\Ex_App_Sem_POO.deps.json
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\bin\Debug\netcoreapp3.1\Ex_App_Sem_POO.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\bin\Debug\netcoreapp3.1\Ex_App_Sem_POO.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\bin\Debug\netcoreapp3.1\Ex_App_Sem_POO.dll
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\bin\Debug\netcoreapp3.1\Ex_App_Sem_POO.pdb
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_Sem_POO.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_Sem_POO.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_Sem_POO.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_Sem_POO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_Sem_POO.dll
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_Sem_POO.pdb
+C:\Workspace\CSharp\Exercicios\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_Sem_POO.genruntimeconfig.cache

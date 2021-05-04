@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mais_Velho_POO/1.0.0": {
+        "runtime": {
+          "Mais_Velho_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mais_Velho_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
