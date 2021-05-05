@@ -1,7 +1,7 @@
 ﻿namespace Conta_Bancaria_POO {
     class Conta {
 
-        private string _nome;
+        public  string _nome { get; set; }
         public int NroConta { get; private set; }
         public double Saldo { get; private set; }
 
