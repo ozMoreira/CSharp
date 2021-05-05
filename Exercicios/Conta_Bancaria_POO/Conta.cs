@@ -6,10 +6,10 @@
         public double Saldo { get; private set; }
 
 
-        public Conta(string nome, int nroConta) {
+        public Conta(string nome, int nroConta, double saldo) {
             this._nome = nome;
             this.NroConta = nroConta;
-            this.Saldo = 0;
+            this.Saldo = saldo;
         }
 
         public string Nome {
@@ -19,10 +19,19 @@
             }
         }
 
+        public void Deposita(double deposita) {
+            this.Saldo += deposita;
+        }
+
+        public void Saca(double saque) {
+            this.Saldo -= (saque + 5);
+        }
+
+
         public override string ToString() {
-            return "Correntista: " + _nome +
-                "Conta Corrente Nro: " + NroConta +
-                "Saldo Atual: R$ " + Saldo.ToString("F2");
+            return "\nCorrentista: " + _nome +
+                "\nConta Corrente Nro: " + NroConta +
+                "\nSaldo Atual: R$ " + Saldo.ToString("F2");
         }
 
 

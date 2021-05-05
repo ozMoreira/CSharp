@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\bin\Debug\netcoreapp3.1\Conta_Bancaria_POO.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\bin\Debug\netcoreapp3.1\Conta_Bancaria_POO.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\bin\Debug\netcoreapp3.1\Conta_Bancaria_POO.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\bin\Debug\netcoreapp3.1\Conta_Bancaria_POO.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\bin\Debug\netcoreapp3.1\Conta_Bancaria_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\bin\Debug\netcoreapp3.1\Conta_Bancaria_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.csprojAssemblyReference.cache
