@@ -1,50 +1,40 @@
 ﻿namespace Estoque_Simples_POO {
     class Produto {
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
         public Produto() {
         }
 
         public Produto(string nome, double preco, int quantidade) {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
-        public string GetNome() {
-            return _nome;
-        }
-
-        public int getQuantidade() {
-            return _quantidade;
-        }
-
-        public void SetNome(string nome) {
-            if (nome != null && nome.Length > 1) { 
-            _nome = nome;
+        //Propriedade que substitui o get / set
+        public string Nome {
+            get { return _nome; }
+            set { if (value != null && value.Length > 1) {
+                    _nome = value; }
             }
         }
 
-        public double GetPreco() {
-            return _preco;
-        }
-
         public double ValorTotalEmEstoque() {
-            return _preco * _quantidade;
+            return Preco * Quantidade;
         }
         public void AdicionaProdutos(int quantidade) {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
 
         public void RemoveProdutos(int quantidade) {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
         public override string ToString() {
             return _nome +
-                "\nPreço Unitário: R$ " + _preco.ToString("F2") +
-                "\nQuantidade Disponível: " + _quantidade +
+                "\nPreço Unitário: R$ " + Preco.ToString("F2") +
+                "\nQuantidade Disponível: " + Quantidade +
                 "\nValor Total do Estoque: R$ " + ValorTotalEmEstoque().ToString("F2");
         }
     }
