@@ -5,10 +5,11 @@
         public int NroConta { get; private set; }
         public double Saldo { get; private set; }
 
-
-        public Conta(string nome, int nroConta, double saldo) {
+        public Conta(string nome, int nroConta) {
             this._nome = nome;
             this.NroConta = nroConta;
+        }
+        public Conta(string nome, int nroConta, double saldo) : this(nome, nroConta) { 
             this.Saldo = saldo;
         }
 

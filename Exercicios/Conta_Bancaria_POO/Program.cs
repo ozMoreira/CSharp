@@ -3,7 +3,7 @@
 namespace Conta_Bancaria_POO {
     class Program {
         static void Main(string[] args) {
-            double deposita = 0;
+            Conta c;
 
             Console.Write("Nome do Correntista >>> ");
             string nome = Console.ReadLine();
@@ -12,13 +12,16 @@ namespace Conta_Bancaria_POO {
             int cc = int.Parse(Console.ReadLine());
 
             Console.Write("Deseja fazer um deposito inicial? (s/n) >>> ");
-            string opcao = Console.ReadLine();
-            if (opcao == "s") {
+            char opcao = char.Parse(Console.ReadLine());
+            if (opcao == 's' || opcao =='S') {
                 Console.Write("Informe o valor do deposito inicial: >>> R$ ");
-                deposita = double.Parse(Console.ReadLine());
+                double deposita = double.Parse(Console.ReadLine());
+                c = new Conta(nome, cc, deposita);
+            } else {
+                c = new Conta(nome, cc);
             }
 
-            Conta c = new Conta(nome, cc, deposita);
+            
 
             Console.Clear();
             Console.WriteLine(c);
@@ -31,7 +34,7 @@ namespace Conta_Bancaria_POO {
                 switch (opcao2) {
                     case 1:
                         Console.Write("\nInforme o valor dodo do deposito: >>> R$ ");
-                        deposita = double.Parse(Console.ReadLine());
+                        double deposita = double.Parse(Console.ReadLine());
                         c.Deposita(deposita);
                         Console.Clear();
                         Console.WriteLine(c);
