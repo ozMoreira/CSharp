@@ -16,7 +16,7 @@
         //Propriedade que substitui o get / set
         public string Nome {
             get { return _nome; }
-            set { if (value != null && value.Length > 1) {
+            set { if (value != null && value.Length > 1){
                     _nome = value; }
             }
         }

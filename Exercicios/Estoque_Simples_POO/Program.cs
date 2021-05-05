@@ -9,11 +9,11 @@ namespace Estoque_Simples_POO {
             string nome = Console.ReadLine();
             Console.Write("Preço: >>> R$ ");
             double preco = double.Parse(Console.ReadLine());
-            /*
+            
             Console.Write("Quantidade em Estoque: >>> ");
             int quantidade = int.Parse(Console.ReadLine());
-            */
-            Produto p = new Produto(nome, preco);
+            
+            Produto p = new Produto(nome, preco, quantidade);
 
             Console.WriteLine("\n\nDados do Produto: " + p);
 
