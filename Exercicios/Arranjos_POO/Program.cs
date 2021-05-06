@@ -6,7 +6,7 @@ namespace Arranjos_POO {
             Console.Write("Digite o número de lançamentos que deseja realizar: >>> ");
             int n = int.Parse(Console.ReadLine());
 
-            double[] vect = new double[3];
+            double[] vect = new double[n];
 
             for (int i = 0; i < n; i++) {
                 Console.Write("Informe a altura >>> ");
