@@ -9,7 +9,7 @@
             this._nome = nome;
             this.NroConta = nroConta;
         }
-        public Conta(string nome, int nroConta, double saldo) : this(nome, nroConta) { 
+        public Conta(string nome, int nroConta, double saldo) : this(nome, nroConta) {
             this.Saldo = saldo;
         }
 

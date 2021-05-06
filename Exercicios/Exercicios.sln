@@ -23,19 +23,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mais_Velho_POO", "Mais_Velh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media_Salarial_POO", "Media_Salarial_POO\Media_Salarial_POO.csproj", "{CE44A092-68B8-4CD5-B4A9-56ABDE37A001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque_Simples_POO", "Estoque_Simples_POO\Estoque_Simples_POO.csproj", "{4F6677F8-EC1D-494D-8FA7-167F9E820859}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estoque_Simples_POO", "Estoque_Simples_POO\Estoque_Simples_POO.csproj", "{4F6677F8-EC1D-494D-8FA7-167F9E820859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculos_Retangulo_POO", "Calculos_Triangulo_POO\Calculos_Retangulo_POO.csproj", "{391A0C00-C770-4041-A2FB-690E6D089EF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculos_Retangulo_POO", "Calculos_Triangulo_POO\Calculos_Retangulo_POO.csproj", "{391A0C00-C770-4041-A2FB-690E6D089EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aumento_Salarial_POO", "Aumento_Salarial_POO\Aumento_Salarial_POO.csproj", "{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aumento_Salarial_POO", "Aumento_Salarial_POO\Aumento_Salarial_POO.csproj", "{B3CFCE47-19AE-4CFE-8E83-3494AB2FD5E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boletim_Aluno_POO", "Boletim_Aluno_POO\Boletim_Aluno_POO.csproj", "{C0EBE2B0-B5FA-44E1-8360-EA01E0B44728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boletim_Aluno_POO", "Boletim_Aluno_POO\Boletim_Aluno_POO.csproj", "{C0EBE2B0-B5FA-44E1-8360-EA01E0B44728}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Circulos_POO", "Calc_Circulos_POO\Calc_Circulos_POO.csproj", "{E6552DB5-2620-4908-83A5-E1A4121260D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc_Circulos_POO", "Calc_Circulos_POO\Calc_Circulos_POO.csproj", "{E6552DB5-2620-4908-83A5-E1A4121260D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Compra_Dolar_POO_Membros_Estaticos", "Calc_Compra_Dolar_POO_Membros_Estaticos\Calc_Compra_Dolar_POO_Membros_Estaticos.csproj", "{223982E6-EE67-4D12-A692-DCE2E74349A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc_Compra_Dolar_POO_Membros_Estaticos", "Calc_Compra_Dolar_POO_Membros_Estaticos\Calc_Compra_Dolar_POO_Membros_Estaticos.csproj", "{223982E6-EE67-4D12-A692-DCE2E74349A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conta_Bancaria_POO", "Conta_Bancaria_POO\Conta_Bancaria_POO.csproj", "{E8F4B8F7-AADF-4501-882C-E0FA55856C71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conta_Bancaria_POO", "Conta_Bancaria_POO\Conta_Bancaria_POO.csproj", "{E8F4B8F7-AADF-4501-882C-E0FA55856C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs_Nullable_POO", "Structs_Nullable_POO\Structs_Nullable_POO.csproj", "{14ED20D5-D85B-4438-AA4D-61F8357981EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{E8F4B8F7-AADF-4501-882C-E0FA55856C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8F4B8F7-AADF-4501-882C-E0FA55856C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8F4B8F7-AADF-4501-882C-E0FA55856C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ED20D5-D85B-4438-AA4D-61F8357981EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ED20D5-D85B-4438-AA4D-61F8357981EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ED20D5-D85B-4438-AA4D-61F8357981EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ED20D5-D85B-4438-AA4D-61F8357981EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +124,7 @@ Global
 		{E6552DB5-2620-4908-83A5-E1A4121260D0} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{223982E6-EE67-4D12-A692-DCE2E74349A0} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{E8F4B8F7-AADF-4501-882C-E0FA55856C71} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
+		{14ED20D5-D85B-4438-AA4D-61F8357981EE} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
