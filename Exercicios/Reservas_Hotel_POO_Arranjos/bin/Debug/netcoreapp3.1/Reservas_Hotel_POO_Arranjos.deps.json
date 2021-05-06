@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reservas_Hotel_POO_Arranjos/1.0.0": {
+        "runtime": {
+          "Reservas_Hotel_POO_Arranjos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reservas_Hotel_POO_Arranjos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

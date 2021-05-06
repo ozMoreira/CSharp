@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\obj\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\obj\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\obj\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\bin\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\bin\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\bin\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\bin\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\bin\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\bin\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\obj\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\obj\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\obj\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reservas_Hotel_POO_Arranjos\obj\Debug\netcoreapp3.1\Reservas_Hotel_POO_Arranjos.csprojAssemblyReference.cache
