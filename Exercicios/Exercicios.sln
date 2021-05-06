@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conta_Bancaria_POO", "Conta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs_Nullable_POO", "Structs_Nullable_POO\Structs_Nullable_POO.csproj", "{14ED20D5-D85B-4438-AA4D-61F8357981EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arranjos_POO", "Arranjos_POO\Arranjos_POO.csproj", "{5CE3B11E-3DBF-4F1F-9347-8FED35DAC39E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{14ED20D5-D85B-4438-AA4D-61F8357981EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14ED20D5-D85B-4438-AA4D-61F8357981EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14ED20D5-D85B-4438-AA4D-61F8357981EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE3B11E-3DBF-4F1F-9347-8FED35DAC39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE3B11E-3DBF-4F1F-9347-8FED35DAC39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE3B11E-3DBF-4F1F-9347-8FED35DAC39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE3B11E-3DBF-4F1F-9347-8FED35DAC39E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +131,7 @@ Global
 		{223982E6-EE67-4D12-A692-DCE2E74349A0} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{E8F4B8F7-AADF-4501-882C-E0FA55856C71} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{14ED20D5-D85B-4438-AA4D-61F8357981EE} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
+		{5CE3B11E-3DBF-4F1F-9347-8FED35DAC39E} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
