@@ -1,0 +1,12 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\bin\Debug\netcoreapp3.1\Listas_POO.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\bin\Debug\netcoreapp3.1\Listas_POO.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\bin\Debug\netcoreapp3.1\Listas_POO.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\bin\Debug\netcoreapp3.1\Listas_POO.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\bin\Debug\netcoreapp3.1\Listas_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\bin\Debug\netcoreapp3.1\Listas_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\obj\Debug\netcoreapp3.1\Listas_POO.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\obj\Debug\netcoreapp3.1\Listas_POO.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\obj\Debug\netcoreapp3.1\Listas_POO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\obj\Debug\netcoreapp3.1\Listas_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\obj\Debug\netcoreapp3.1\Listas_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Listas_POO\obj\Debug\netcoreapp3.1\Listas_POO.genruntimeconfig.cache
