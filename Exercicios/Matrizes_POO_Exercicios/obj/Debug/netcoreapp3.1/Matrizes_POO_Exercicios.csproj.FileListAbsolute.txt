@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\bin\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\bin\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\bin\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\bin\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\bin\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\bin\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\obj\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\obj\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\obj\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\obj\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\obj\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\obj\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Matrizes_POO_Exercicios\obj\Debug\netcoreapp3.1\Matrizes_POO_Exercicios.csprojAssemblyReference.cache

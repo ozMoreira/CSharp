@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aumento_Salarial_POO_Lista"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrizes_POO", "Matrizes_POO\Matrizes_POO.csproj", "{84157FBD-FCA8-4E61-9960-DFEAB18F2023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrizes_POO_Exercicios", "Matrizes_POO_Exercicios\Matrizes_POO_Exercicios.csproj", "{57519A60-187E-48D9-B159-4774C8DAFF30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{84157FBD-FCA8-4E61-9960-DFEAB18F2023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84157FBD-FCA8-4E61-9960-DFEAB18F2023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84157FBD-FCA8-4E61-9960-DFEAB18F2023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57519A60-187E-48D9-B159-4774C8DAFF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57519A60-187E-48D9-B159-4774C8DAFF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57519A60-187E-48D9-B159-4774C8DAFF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57519A60-187E-48D9-B159-4774C8DAFF30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -181,6 +187,7 @@ Global
 		{32EC137D-F29C-4C88-8D4C-55EC6E28B887} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{02961377-1573-4626-83C6-2F8B455F8A9C} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{84157FBD-FCA8-4E61-9960-DFEAB18F2023} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
+		{57519A60-187E-48D9-B159-4774C8DAFF30} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
