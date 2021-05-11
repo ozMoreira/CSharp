@@ -12,6 +12,11 @@ namespace Calculadora_POO_Params {
 
             Calculadora.Triplicar(ref a); //--> busca a referencia na variavel da funcao void.
             Console.WriteLine(a);
+
+            int b = 10;
+            int triple;
+            Calculadora.Triplicou(b, out triple); 
+            Console.WriteLine(triple);
         }
     }
 }

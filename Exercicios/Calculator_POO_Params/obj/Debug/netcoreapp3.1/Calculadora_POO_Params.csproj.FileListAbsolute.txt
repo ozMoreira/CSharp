@@ -10,3 +10,4 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculator_POO_Params\obj\Debug
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculator_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculator_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.pdb
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculator_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculator_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.csprojAssemblyReference.cache

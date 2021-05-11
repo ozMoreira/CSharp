@@ -13,5 +13,9 @@ namespace Calculadora_POO_Params {
         public static void Triplicar(ref int x) {
             x *= 3;
         }
+
+        public static void Triplicou(int origin, out int result) {
+            result = origin * 3;
+        }
     }
 }

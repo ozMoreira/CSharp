@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\bin\Debug\netcoreapp3.1\Foreach_POO.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\bin\Debug\netcoreapp3.1\Foreach_POO.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\bin\Debug\netcoreapp3.1\Foreach_POO.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\bin\Debug\netcoreapp3.1\Foreach_POO.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\bin\Debug\netcoreapp3.1\Foreach_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\bin\Debug\netcoreapp3.1\Foreach_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\obj\Debug\netcoreapp3.1\Foreach_POO.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\obj\Debug\netcoreapp3.1\Foreach_POO.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\obj\Debug\netcoreapp3.1\Foreach_POO.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\obj\Debug\netcoreapp3.1\Foreach_POO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\obj\Debug\netcoreapp3.1\Foreach_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\obj\Debug\netcoreapp3.1\Foreach_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Foreach_POO\obj\Debug\netcoreapp3.1\Foreach_POO.genruntimeconfig.cache
