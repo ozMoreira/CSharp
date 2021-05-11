@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach_POO", "Foreach_POO\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas_POO", "Listas_POO\Listas_POO.csproj", "{32EC137D-F29C-4C88-8D4C-55EC6E28B887}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aumento_Salarial_POO_Lista", "Aumento_Salarial_POO_Lista\Aumento_Salarial_POO_Lista.csproj", "{02961377-1573-4626-83C6-2F8B455F8A9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{32EC137D-F29C-4C88-8D4C-55EC6E28B887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32EC137D-F29C-4C88-8D4C-55EC6E28B887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32EC137D-F29C-4C88-8D4C-55EC6E28B887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02961377-1573-4626-83C6-2F8B455F8A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02961377-1573-4626-83C6-2F8B455F8A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02961377-1573-4626-83C6-2F8B455F8A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02961377-1573-4626-83C6-2F8B455F8A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -167,6 +173,7 @@ Global
 		{4B4219E8-5634-436F-AD43-5E811132CCAD} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{46AE006E-F1AC-424E-8168-DEFAC6DA1B25} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{32EC137D-F29C-4C88-8D4C-55EC6E28B887} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
+		{02961377-1573-4626-83C6-2F8B455F8A9C} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}

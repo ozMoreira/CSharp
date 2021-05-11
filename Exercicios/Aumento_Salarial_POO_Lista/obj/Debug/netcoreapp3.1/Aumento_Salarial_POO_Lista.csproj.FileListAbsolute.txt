@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\bin\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\bin\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\bin\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\bin\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\bin\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\bin\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO_Lista\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO_Lista.genruntimeconfig.cache
