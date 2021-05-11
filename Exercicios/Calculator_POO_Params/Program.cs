@@ -6,7 +6,12 @@ namespace Calculadora_POO_Params {
             int resultado = Calculadora.Soma(20, 30, 40);
             //int resultado = Calculadora.Soma(new int[] { 10, 20, 30, 40 }); --> Objeto Instanciado sem Params na funçao
 
-            Console.WriteLine(resultado);
+            //Console.WriteLine(resultado);
+
+            int a = 10;
+
+            Calculadora.Triplicar(ref a); //--> busca a referencia na variavel da funcao void.
+            Console.WriteLine(a);
         }
     }
 }

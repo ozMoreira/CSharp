@@ -9,5 +9,9 @@ namespace Calculadora_POO_Params {
             }
             return soma;
         }
+
+        public static void Triplicar(ref int x) {
+            x *= 3;
+        }
     }
 }
