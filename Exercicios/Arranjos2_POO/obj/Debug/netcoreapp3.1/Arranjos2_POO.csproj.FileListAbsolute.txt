@@ -1,13 +1,12 @@
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.csprojAssemblyReference.cache
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.AssemblyInfoInputs.cache
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.AssemblyInfo.cs
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.csproj.CoreCompileInputs.cache
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\bin\Debug\netcoreapp3.1\Arranjos2_POO.exe
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\bin\Debug\netcoreapp3.1\Arranjos2_POO.deps.json
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\bin\Debug\netcoreapp3.1\Arranjos2_POO.runtimeconfig.json
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\bin\Debug\netcoreapp3.1\Arranjos2_POO.runtimeconfig.dev.json
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\bin\Debug\netcoreapp3.1\Arranjos2_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\bin\Debug\netcoreapp3.1\Arranjos2_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.csproj.CoreCompileInputs.cache
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.pdb
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos2_POO\obj\Debug\netcoreapp3.1\Arranjos2_POO.genruntimeconfig.cache

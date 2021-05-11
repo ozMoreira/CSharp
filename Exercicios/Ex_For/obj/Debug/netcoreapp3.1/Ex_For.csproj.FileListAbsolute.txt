@@ -11,3 +11,16 @@ C:\Workspace\CSharp\Exercicios\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.
 C:\Workspace\CSharp\Exercicios\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.dll
 C:\Workspace\CSharp\Exercicios\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.pdb
 C:\Workspace\CSharp\Exercicios\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\bin\Debug\netcoreapp3.1\Ex_For.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\bin\Debug\netcoreapp3.1\Ex_For.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\bin\Debug\netcoreapp3.1\Ex_For.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\bin\Debug\netcoreapp3.1\Ex_For.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\bin\Debug\netcoreapp3.1\Ex_For.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\bin\Debug\netcoreapp3.1\Ex_For.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_For\obj\Debug\netcoreapp3.1\Ex_For.genruntimeconfig.cache

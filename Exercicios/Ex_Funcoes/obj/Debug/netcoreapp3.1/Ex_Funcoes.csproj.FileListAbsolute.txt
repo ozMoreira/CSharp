@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\bin\Debug\netcoreapp3.1\Ex_Funcoes.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\bin\Debug\netcoreapp3.1\Ex_Funcoes.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\bin\Debug\netcoreapp3.1\Ex_Funcoes.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\bin\Debug\netcoreapp3.1\Ex_Funcoes.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\bin\Debug\netcoreapp3.1\Ex_Funcoes.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\bin\Debug\netcoreapp3.1\Ex_Funcoes.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\obj\Debug\netcoreapp3.1\Ex_Funcoes.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\obj\Debug\netcoreapp3.1\Ex_Funcoes.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\obj\Debug\netcoreapp3.1\Ex_Funcoes.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\obj\Debug\netcoreapp3.1\Ex_Funcoes.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\obj\Debug\netcoreapp3.1\Ex_Funcoes.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\obj\Debug\netcoreapp3.1\Ex_Funcoes.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_Funcoes\obj\Debug\netcoreapp3.1\Ex_Funcoes.genruntimeconfig.cache

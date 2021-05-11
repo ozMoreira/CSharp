@@ -4,7 +4,6 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Structs_Nullable_POO\bin\Debug\
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Structs_Nullable_POO\bin\Debug\netcoreapp3.1\Structs_Nullable_POO.runtimeconfig.dev.json
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Structs_Nullable_POO\bin\Debug\netcoreapp3.1\Structs_Nullable_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Structs_Nullable_POO\bin\Debug\netcoreapp3.1\Structs_Nullable_POO.pdb
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Structs_Nullable_POO\obj\Debug\netcoreapp3.1\Structs_Nullable_POO.csprojAssemblyReference.cache
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Structs_Nullable_POO\obj\Debug\netcoreapp3.1\Structs_Nullable_POO.AssemblyInfoInputs.cache
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Structs_Nullable_POO\obj\Debug\netcoreapp3.1\Structs_Nullable_POO.AssemblyInfo.cs
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Structs_Nullable_POO\obj\Debug\netcoreapp3.1\Structs_Nullable_POO.csproj.CoreCompileInputs.cache

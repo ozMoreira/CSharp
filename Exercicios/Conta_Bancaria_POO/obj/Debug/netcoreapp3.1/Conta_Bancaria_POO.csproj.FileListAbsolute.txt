@@ -10,4 +10,3 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\ne
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.pdb
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.genruntimeconfig.cache
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Conta_Bancaria_POO\obj\Debug\netcoreapp3.1\Conta_Bancaria_POO.csprojAssemblyReference.cache

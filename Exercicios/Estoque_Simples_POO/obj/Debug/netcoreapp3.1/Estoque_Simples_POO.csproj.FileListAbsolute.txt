@@ -10,4 +10,3 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Estoque_Simples_POO\obj\Debug\n
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Estoque_Simples_POO\obj\Debug\netcoreapp3.1\Estoque_Simples_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Estoque_Simples_POO\obj\Debug\netcoreapp3.1\Estoque_Simples_POO.pdb
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Estoque_Simples_POO\obj\Debug\netcoreapp3.1\Estoque_Simples_POO.genruntimeconfig.cache
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Estoque_Simples_POO\obj\Debug\netcoreapp3.1\Estoque_Simples_POO.csprojAssemblyReference.cache

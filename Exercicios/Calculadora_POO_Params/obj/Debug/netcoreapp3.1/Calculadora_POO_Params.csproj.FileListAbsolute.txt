@@ -1,0 +1,6 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculadora_POO_Params\bin\Debug\netcoreapp3.1\Calculadora_POO_Params.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculadora_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculadora_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculadora_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculadora_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calculadora_POO_Params\obj\Debug\netcoreapp3.1\Calculadora_POO_Params.pdb

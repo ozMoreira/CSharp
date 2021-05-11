@@ -10,4 +10,3 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO\obj\Debug\
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO.pdb
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO.genruntimeconfig.cache
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Aumento_Salarial_POO\obj\Debug\netcoreapp3.1\Aumento_Salarial_POO.csprojAssemblyReference.cache

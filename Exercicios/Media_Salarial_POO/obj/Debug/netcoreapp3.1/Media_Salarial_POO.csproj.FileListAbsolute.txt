@@ -16,7 +16,6 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Media_Salarial_POO\bin\Debug\ne
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Media_Salarial_POO\bin\Debug\netcoreapp3.1\Media_Salarial_POO.runtimeconfig.dev.json
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Media_Salarial_POO\bin\Debug\netcoreapp3.1\Media_Salarial_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Media_Salarial_POO\bin\Debug\netcoreapp3.1\Media_Salarial_POO.pdb
-C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Media_Salarial_POO\obj\Debug\netcoreapp3.1\Media_Salarial_POO.csprojAssemblyReference.cache
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Media_Salarial_POO\obj\Debug\netcoreapp3.1\Media_Salarial_POO.AssemblyInfoInputs.cache
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Media_Salarial_POO\obj\Debug\netcoreapp3.1\Media_Salarial_POO.AssemblyInfo.cs
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Media_Salarial_POO\obj\Debug\netcoreapp3.1\Media_Salarial_POO.csproj.CoreCompileInputs.cache

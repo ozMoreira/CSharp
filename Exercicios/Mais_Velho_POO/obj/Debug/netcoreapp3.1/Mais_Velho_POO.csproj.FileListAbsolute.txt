@@ -11,3 +11,16 @@ C:\Workspace\CSharp\Exercicios\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1
 C:\Workspace\CSharp\Exercicios\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.dll
 C:\Workspace\CSharp\Exercicios\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.pdb
 C:\Workspace\CSharp\Exercicios\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\bin\Debug\netcoreapp3.1\Mais_Velho_POO.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\bin\Debug\netcoreapp3.1\Mais_Velho_POO.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\bin\Debug\netcoreapp3.1\Mais_Velho_POO.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\bin\Debug\netcoreapp3.1\Mais_Velho_POO.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\bin\Debug\netcoreapp3.1\Mais_Velho_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\bin\Debug\netcoreapp3.1\Mais_Velho_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Mais_Velho_POO\obj\Debug\netcoreapp3.1\Mais_Velho_POO.genruntimeconfig.cache

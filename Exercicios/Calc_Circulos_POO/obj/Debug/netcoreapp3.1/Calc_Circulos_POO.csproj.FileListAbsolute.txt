@@ -4,6 +4,7 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calc_Circulos_POO\bin\Debug\net
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calc_Circulos_POO\bin\Debug\netcoreapp3.1\Calc_Circulos_POO.runtimeconfig.dev.json
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calc_Circulos_POO\bin\Debug\netcoreapp3.1\Calc_Circulos_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calc_Circulos_POO\bin\Debug\netcoreapp3.1\Calc_Circulos_POO.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calc_Circulos_POO\obj\Debug\netcoreapp3.1\Calc_Circulos_POO.csprojAssemblyReference.cache
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calc_Circulos_POO\obj\Debug\netcoreapp3.1\Calc_Circulos_POO.AssemblyInfoInputs.cache
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calc_Circulos_POO\obj\Debug\netcoreapp3.1\Calc_Circulos_POO.AssemblyInfo.cs
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Calc_Circulos_POO\obj\Debug\netcoreapp3.1\Calc_Circulos_POO.csproj.CoreCompileInputs.cache

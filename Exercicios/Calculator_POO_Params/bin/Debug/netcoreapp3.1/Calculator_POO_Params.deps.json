@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Reservas_Hotel_POO_Arranjos/1.0.0": {
+      "Calculator_POO_Params/1.0.0": {
         "runtime": {
-          "Reservas_Hotel_POO_Arranjos.dll": {}
+          "Calculator_POO_Params.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Reservas_Hotel_POO_Arranjos/1.0.0": {
+    "Calculator_POO_Params/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
