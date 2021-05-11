@@ -33,12 +33,12 @@ namespace Reservas_Hotel_POO_Arranjos {
             } else {
                 Console.WriteLine("\n\nNúmero de Quartos desejados Maior que o Disponível");
             }
-
             for (int p = 0; p < 10; p++) {
                 if (resV[p] != null) {
                     Console.WriteLine(resV[p]);
                 }
             }
+
         }
     }
 }

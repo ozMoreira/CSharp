@@ -20,10 +20,7 @@ namespace Reservas_Hotel_POO_Arranjos {
         public Reserva(int quarto) {
             this.NroQuarto = quarto;
         }
-        /*public int Buscador(int quartos) {
-            if (resV.)
-            return 
-        }*/
+     
         public override string ToString() {
             return "\n\nBooking # " + NroQuarto +
                 "\nHóspede Principal: " + Nome +
