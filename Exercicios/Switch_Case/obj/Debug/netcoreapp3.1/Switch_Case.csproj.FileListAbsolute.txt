@@ -1,0 +1,12 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\bin\Debug\netcoreapp3.1\Switch_Case.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Switch_Case\obj\Debug\netcoreapp3.1\Switch_Case.genruntimeconfig.cache
