@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Case", "Switch_Case\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressao_Condicional_Ternaria", "Expressao_Condicional_Ternaria\Expressao_Condicional_Ternaria.csproj", "{E15FB541-F8CE-491A-B100-6B5E25D3AB24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_Strings", "Metodos_Strings\Metodos_Strings.csproj", "{04A6A656-767F-44AA-9AD0-F476AA9B4F4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{E15FB541-F8CE-491A-B100-6B5E25D3AB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E15FB541-F8CE-491A-B100-6B5E25D3AB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E15FB541-F8CE-491A-B100-6B5E25D3AB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A6A656-767F-44AA-9AD0-F476AA9B4F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A6A656-767F-44AA-9AD0-F476AA9B4F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A6A656-767F-44AA-9AD0-F476AA9B4F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A6A656-767F-44AA-9AD0-F476AA9B4F4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -209,6 +215,7 @@ Global
 		{7CBB8697-0278-4311-9F3D-39D5C2B2A184} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{040401E2-8A73-4065-9E4A-B9B2599A5E6E} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{E15FB541-F8CE-491A-B100-6B5E25D3AB24} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
+		{04A6A656-767F-44AA-9AD0-F476AA9B4F4A} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}

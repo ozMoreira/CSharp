@@ -1,0 +1,12 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\bin\Debug\netcoreapp3.1\Metodos_Strings.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\bin\Debug\netcoreapp3.1\Metodos_Strings.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\bin\Debug\netcoreapp3.1\Metodos_Strings.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\bin\Debug\netcoreapp3.1\Metodos_Strings.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\bin\Debug\netcoreapp3.1\Metodos_Strings.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\bin\Debug\netcoreapp3.1\Metodos_Strings.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\obj\Debug\netcoreapp3.1\Metodos_Strings.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\obj\Debug\netcoreapp3.1\Metodos_Strings.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\obj\Debug\netcoreapp3.1\Metodos_Strings.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\obj\Debug\netcoreapp3.1\Metodos_Strings.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\obj\Debug\netcoreapp3.1\Metodos_Strings.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Metodos_Strings\obj\Debug\netcoreapp3.1\Metodos_Strings.genruntimeconfig.cache
