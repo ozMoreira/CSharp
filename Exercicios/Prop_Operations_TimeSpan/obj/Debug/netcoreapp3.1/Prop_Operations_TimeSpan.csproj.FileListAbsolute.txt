@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\bin\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\bin\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\bin\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\bin\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\bin\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\bin\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\obj\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\obj\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\obj\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\obj\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\obj\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\obj\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operations_TimeSpan\obj\Debug\netcoreapp3.1\Prop_Operations_TimeSpan.genruntimeconfig.cache
