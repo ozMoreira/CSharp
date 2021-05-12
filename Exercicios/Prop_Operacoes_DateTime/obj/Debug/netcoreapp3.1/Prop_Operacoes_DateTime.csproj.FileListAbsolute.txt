@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\bin\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\bin\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\bin\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\bin\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\bin\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\bin\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\obj\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\obj\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\obj\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\obj\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\obj\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\obj\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Prop_Operacoes_DateTime\obj\Debug\netcoreapp3.1\Prop_Operacoes_DateTime.csprojAssemblyReference.cache

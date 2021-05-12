@@ -1,0 +1,4 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csproj.CoreCompileInputs.cache
