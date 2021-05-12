@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BuscaPosicao_POO_Matrizes/1.0.0": {
+        "runtime": {
+          "BuscaPosicao_POO_Matrizes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuscaPosicao_POO_Matrizes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

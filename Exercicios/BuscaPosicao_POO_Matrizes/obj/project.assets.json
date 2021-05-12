@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Calculator_POO_Params\\Calculadora_POO_Params.csproj",
-      "projectName": "Calculadora_POO_Params",
-      "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Calculator_POO_Params\\Calculadora_POO_Params.csproj",
+      "projectUniqueName": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\BuscaPosicao_POO_Matrizes\\BuscaPosicao_POO_Matrizes.csproj",
+      "projectName": "BuscaPosicao_POO_Matrizes",
+      "projectPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\BuscaPosicao_POO_Matrizes\\BuscaPosicao_POO_Matrizes.csproj",
       "packagesPath": "C:\\Users\\Oz\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\Calculator_POO_Params\\obj\\",
+      "outputPath": "C:\\Workspace\\CSharp\\Exercicios\\CSharp\\Exercicios\\BuscaPosicao_POO_Matrizes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

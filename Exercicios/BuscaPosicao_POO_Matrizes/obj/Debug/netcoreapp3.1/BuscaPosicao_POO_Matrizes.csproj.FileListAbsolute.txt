@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\bin\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\bin\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\bin\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\bin\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\bin\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\bin\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\obj\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\obj\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\obj\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\obj\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\obj\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\obj\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\BuscaPosicao_POO_Matrizes\obj\Debug\netcoreapp3.1\BuscaPosicao_POO_Matrizes.genruntimeconfig.cache
