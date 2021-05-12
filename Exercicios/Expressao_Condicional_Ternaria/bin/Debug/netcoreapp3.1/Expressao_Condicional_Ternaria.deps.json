@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Expressao_Condicional_Ternaria/1.0.0": {
+        "runtime": {
+          "Expressao_Condicional_Ternaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expressao_Condicional_Ternaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -23,3 +23,4 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_App_Sem_POO\obj\Debug\netcor
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_POO.pdb
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_POO.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Ex_App_Sem_POO\obj\Debug\netcoreapp3.1\Ex_App_POO.csprojAssemblyReference.cache

@@ -10,3 +10,4 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos_POO\obj\Debug\netcorea
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos_POO\obj\Debug\netcoreapp3.1\Arranjos_POO.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos_POO\obj\Debug\netcoreapp3.1\Arranjos_POO.pdb
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos_POO\obj\Debug\netcoreapp3.1\Arranjos_POO.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Arranjos_POO\obj\Debug\netcoreapp3.1\Arranjos_POO.csprojAssemblyReference.cache

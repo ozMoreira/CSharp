@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\bin\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\bin\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\bin\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\bin\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\bin\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\bin\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\obj\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\obj\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\obj\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\obj\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\obj\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\obj\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Expressao_Condicional_Ternaria\obj\Debug\netcoreapp3.1\Expressao_Condicional_Ternaria.genruntimeconfig.cache
