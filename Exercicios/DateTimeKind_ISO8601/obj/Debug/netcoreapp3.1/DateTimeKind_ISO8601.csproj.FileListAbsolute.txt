@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\DateTimeKind_ISO8601.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\DateTimeKind_ISO8601.csprojAssemblyReference.cache
