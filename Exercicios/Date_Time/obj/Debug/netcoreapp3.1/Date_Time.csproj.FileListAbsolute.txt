@@ -1,0 +1,12 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.genruntimeconfig.cache
