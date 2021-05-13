@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\bin\Debug\netcoreapp3.1\Composicao_Enums.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\bin\Debug\netcoreapp3.1\Composicao_Enums.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\bin\Debug\netcoreapp3.1\Composicao_Enums.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\bin\Debug\netcoreapp3.1\Composicao_Enums.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\bin\Debug\netcoreapp3.1\Composicao_Enums.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\bin\Debug\netcoreapp3.1\Composicao_Enums.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\obj\Debug\netcoreapp3.1\Composicao_Enums.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\obj\Debug\netcoreapp3.1\Composicao_Enums.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\obj\Debug\netcoreapp3.1\Composicao_Enums.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\obj\Debug\netcoreapp3.1\Composicao_Enums.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\obj\Debug\netcoreapp3.1\Composicao_Enums.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\obj\Debug\netcoreapp3.1\Composicao_Enums.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Composicao_Enums\obj\Debug\netcoreapp3.1\Composicao_Enums.genruntimeconfig.cache

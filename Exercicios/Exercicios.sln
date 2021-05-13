@@ -57,25 +57,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrizes_POO", "Matrizes_PO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrizes_POO_Exercicios", "Matrizes_POO_Exercicios\Matrizes_POO_Exercicios.csproj", "{57519A60-187E-48D9-B159-4774C8DAFF30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaPosicao_POO_Matrizes", "BuscaPosicao_POO_Matrizes\BuscaPosicao_POO_Matrizes.csproj", "{7CBB8697-0278-4311-9F3D-39D5C2B2A184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuscaPosicao_POO_Matrizes", "BuscaPosicao_POO_Matrizes\BuscaPosicao_POO_Matrizes.csproj", "{7CBB8697-0278-4311-9F3D-39D5C2B2A184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Case", "Switch_Case\Switch_Case.csproj", "{040401E2-8A73-4065-9E4A-B9B2599A5E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch_Case", "Switch_Case\Switch_Case.csproj", "{040401E2-8A73-4065-9E4A-B9B2599A5E6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressao_Condicional_Ternaria", "Expressao_Condicional_Ternaria\Expressao_Condicional_Ternaria.csproj", "{E15FB541-F8CE-491A-B100-6B5E25D3AB24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expressao_Condicional_Ternaria", "Expressao_Condicional_Ternaria\Expressao_Condicional_Ternaria.csproj", "{E15FB541-F8CE-491A-B100-6B5E25D3AB24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_Strings", "Metodos_Strings\Metodos_Strings.csproj", "{04A6A656-767F-44AA-9AD0-F476AA9B4F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos_Strings", "Metodos_Strings\Metodos_Strings.csproj", "{04A6A656-767F-44AA-9AD0-F476AA9B4F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date_Time", "Date_Time\Date_Time.csproj", "{3093C3A6-673B-4C04-9A1A-8E1801C8618B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Date_Time", "Date_Time\Date_Time.csproj", "{3093C3A6-673B-4C04-9A1A-8E1801C8618B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSpann", "TimeSpan\TimeSpann.csproj", "{52C80909-33D1-42B1-859C-9DD07A81AA72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeSpann", "TimeSpan\TimeSpann.csproj", "{52C80909-33D1-42B1-859C-9DD07A81AA72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prop_Operacoes_DateTime", "Prop_Operacoes_DateTime\Prop_Operacoes_DateTime.csproj", "{AFB26CE6-D5C5-4F8F-BCE9-267D91A8E01D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prop_Operacoes_DateTime", "Prop_Operacoes_DateTime\Prop_Operacoes_DateTime.csproj", "{AFB26CE6-D5C5-4F8F-BCE9-267D91A8E01D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prop_Operations_TimeSpan", "Prop_Operations_TimeSpan\Prop_Operations_TimeSpan.csproj", "{47618874-10C1-439A-9FD8-B2F8A3B42566}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prop_Operations_TimeSpan", "Prop_Operations_TimeSpan\Prop_Operations_TimeSpan.csproj", "{47618874-10C1-439A-9FD8-B2F8A3B42566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeKind_ISO8601", "DateTimeKind_ISO8601\DateTimeKind_ISO8601.csproj", "{1361CFEE-3675-49A5-AA1E-5227A28276C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeKind_ISO8601", "DateTimeKind_ISO8601\DateTimeKind_ISO8601.csproj", "{1361CFEE-3675-49A5-AA1E-5227A28276C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum_Exemplos", "Enum_Exemplos\Enum_Exemplos.csproj", "{08D856F1-1E7B-4CC2-9DC2-5DB99DB561F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum_Exemplos", "Enum_Exemplos\Enum_Exemplos.csproj", "{08D856F1-1E7B-4CC2-9DC2-5DB99DB561F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao_Enums", "Composicao_Enums\Composicao_Enums.csproj", "{CB79B072-496A-4FBE-AE7F-69403739D860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{08D856F1-1E7B-4CC2-9DC2-5DB99DB561F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08D856F1-1E7B-4CC2-9DC2-5DB99DB561F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08D856F1-1E7B-4CC2-9DC2-5DB99DB561F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB79B072-496A-4FBE-AE7F-69403739D860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB79B072-496A-4FBE-AE7F-69403739D860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB79B072-496A-4FBE-AE7F-69403739D860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB79B072-496A-4FBE-AE7F-69403739D860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -258,6 +264,7 @@ Global
 		{47618874-10C1-439A-9FD8-B2F8A3B42566} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{1361CFEE-3675-49A5-AA1E-5227A28276C0} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{08D856F1-1E7B-4CC2-9DC2-5DB99DB561F0} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
+		{CB79B072-496A-4FBE-AE7F-69403739D860} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
