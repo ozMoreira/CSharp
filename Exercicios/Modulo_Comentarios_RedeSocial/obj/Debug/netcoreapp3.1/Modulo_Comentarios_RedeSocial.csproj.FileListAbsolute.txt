@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\bin\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\bin\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\bin\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\bin\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\bin\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\bin\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\obj\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\obj\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\obj\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\obj\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\obj\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\obj\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Modulo_Comentarios_RedeSocial\obj\Debug\netcoreapp3.1\Modulo_Comentarios_RedeSocial.genruntimeconfig.cache
