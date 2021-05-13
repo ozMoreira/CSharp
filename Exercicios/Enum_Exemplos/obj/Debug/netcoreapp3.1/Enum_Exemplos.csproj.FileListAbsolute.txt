@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\bin\Debug\netcoreapp3.1\Enum_Exemplos.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\bin\Debug\netcoreapp3.1\Enum_Exemplos.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\bin\Debug\netcoreapp3.1\Enum_Exemplos.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\bin\Debug\netcoreapp3.1\Enum_Exemplos.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\bin\Debug\netcoreapp3.1\Enum_Exemplos.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\bin\Debug\netcoreapp3.1\Enum_Exemplos.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\obj\Debug\netcoreapp3.1\Enum_Exemplos.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\obj\Debug\netcoreapp3.1\Enum_Exemplos.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\obj\Debug\netcoreapp3.1\Enum_Exemplos.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\obj\Debug\netcoreapp3.1\Enum_Exemplos.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\obj\Debug\netcoreapp3.1\Enum_Exemplos.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\obj\Debug\netcoreapp3.1\Enum_Exemplos.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Enum_Exemplos\obj\Debug\netcoreapp3.1\Enum_Exemplos.genruntimeconfig.cache

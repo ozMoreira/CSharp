@@ -1,8 +1,11 @@
 ﻿using System;
 
-namespace Prop_Operations_TimeSpan {
-    class Program {
-        static void Main(string[] args) {
+namespace Prop_Operations_TimeSpan
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
             TimeSpan t1 = TimeSpan.MinValue;
             TimeSpan t2 = TimeSpan.MaxValue;
             TimeSpan t3 = TimeSpan.Zero;
