@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ContaBancaria_Herança_POO.Entities
 {
-    class Poupanca : Conta
+   sealed class Poupanca : Conta //sealed - evita que a classe seja herdada...lacra a classe
     {
         public double TaxaJuros { get; set; }
 
@@ -24,7 +24,7 @@ namespace ContaBancaria_Herança_POO.Entities
             Saldo += Saldo * TaxaJuros;
         }
 
-        public override void Saque(double valor)
+        public sealed override void Saque(double valor) // sealed evita que esse metodo seja reesscrito novamente em outra subclasse
         {
             //Saldo -= valor; - saca sem abater os 5 reais da conta base
             base.Saque(valor);
