@@ -18,9 +18,9 @@
             Saldo = saldo;
         }
 
-        public void Saque(double valor)
+        public virtual void Saque(double valor) //Virtual informa que o metodo pode ser sobrescrito ou sobreposto nas subclasses
         {
-            Saldo -= valor;
+            Saldo -= valor + 5.0;
         }
 
         public void Deposito(double valor)

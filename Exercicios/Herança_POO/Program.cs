@@ -6,14 +6,20 @@ namespace Herança_POO
     {
         static void Main(string[] args)
         {
-            Conta c = new Conta(1001, "Alex", 0.0);
-            ContaCorporativa cCorp = new ContaCorporativa(1002, "Maria", 0.0, 500.00);
-
+            Conta c = new Conta(1001, "Alex", 500.0);
+            //ContaCorporativa cCorp = new ContaCorporativa(1002, "Maria", 0.0, 500.00);
+            
             //UPCASTING Super Classe recebe subClasse
-            Conta c2 = cCorp;
+            //Conta c2 = cCorp;
             Conta c3 = new ContaCorporativa(1003, "Bob", 0.0, 200.0);
-            Conta c4 = new Poupanca(1004, "Anna", 0.0, 0.01);
+            Conta c4 = new Poupanca(1004, "Anna", 500.0, 0.01);
 
+            c.Saque(10.0);
+            c4.Saque(10.0);
+
+            Console.WriteLine(c.Saldo);
+            Console.WriteLine(c4.Saldo);
+            /*
             //DOWNCASTING
             ContaCorporativa cCorp2 = (ContaCorporativa)c3;
             cCorp2.Emprestimo(100);
@@ -31,7 +37,7 @@ namespace Herança_POO
                 Poupanca cCorp3 = (Poupanca)c4;
                 cCorp3.AtualizaSaldo();
                 Console.WriteLine("Atualizado Saldo");
-            }
+            }*/
         }
     }
 }

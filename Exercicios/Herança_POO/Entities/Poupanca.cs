@@ -23,5 +23,12 @@ namespace ContaBancaria_Herança_POO.Entities
         {
             Saldo += Saldo * TaxaJuros;
         }
+
+        public override void Saque(double valor)
+        {
+            //Saldo -= valor; - saca sem abater os 5 reais da conta base
+            base.Saque(valor);
+            Saldo -= 2.0;
+        }
     }
 }
