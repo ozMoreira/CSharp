@@ -77,11 +77,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeKind_ISO8601", "Dat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum_Exemplos", "Enum_Exemplos\Enum_Exemplos.csproj", "{08D856F1-1E7B-4CC2-9DC2-5DB99DB561F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao_Enums", "Composicao_Enums\Composicao_Enums.csproj", "{CB79B072-496A-4FBE-AE7F-69403739D860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composicao_Enums", "Composicao_Enums\Composicao_Enums.csproj", "{CB79B072-496A-4FBE-AE7F-69403739D860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo_Comentarios_RedeSocial", "Modulo_Comentarios_RedeSocial\Modulo_Comentarios_RedeSocial.csproj", "{59CFCC79-9C84-4EAA-95A8-7C3F57614015}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo_Comentarios_RedeSocial", "Modulo_Comentarios_RedeSocial\Modulo_Comentarios_RedeSocial.csproj", "{59CFCC79-9C84-4EAA-95A8-7C3F57614015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle_De_Pedidos", "Controle_De_Pedidos\Controle_De_Pedidos.csproj", "{2F14D353-288E-4104-9C87-2B0CD7B863CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controle_De_Pedidos", "Controle_De_Pedidos\Controle_De_Pedidos.csproj", "{2F14D353-288E-4104-9C87-2B0CD7B863CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBancaria_Herança_POO", "Herança_POO\ContaBancaria_Herança_POO.csproj", "{033CB7E7-308E-4603-BE0D-D4A532281066}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{2F14D353-288E-4104-9C87-2B0CD7B863CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F14D353-288E-4104-9C87-2B0CD7B863CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F14D353-288E-4104-9C87-2B0CD7B863CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033CB7E7-308E-4603-BE0D-D4A532281066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033CB7E7-308E-4603-BE0D-D4A532281066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033CB7E7-308E-4603-BE0D-D4A532281066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033CB7E7-308E-4603-BE0D-D4A532281066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -279,6 +285,7 @@ Global
 		{CB79B072-496A-4FBE-AE7F-69403739D860} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{59CFCC79-9C84-4EAA-95A8-7C3F57614015} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 		{2F14D353-288E-4104-9C87-2B0CD7B863CD} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
+		{033CB7E7-308E-4603-BE0D-D4A532281066} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
