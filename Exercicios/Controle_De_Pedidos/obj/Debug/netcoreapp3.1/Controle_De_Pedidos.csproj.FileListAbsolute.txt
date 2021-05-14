@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\obj\Debug\netcoreapp3.1\Controle_De_Pedidos.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\obj\Debug\netcoreapp3.1\Controle_De_Pedidos.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\obj\Debug\netcoreapp3.1\Controle_De_Pedidos.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\obj\Debug\netcoreapp3.1\Controle_De_Pedidos.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\bin\Debug\netcoreapp3.1\Controle_De_Pedidos.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\bin\Debug\netcoreapp3.1\Controle_De_Pedidos.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\bin\Debug\netcoreapp3.1\Controle_De_Pedidos.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\bin\Debug\netcoreapp3.1\Controle_De_Pedidos.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\bin\Debug\netcoreapp3.1\Controle_De_Pedidos.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\bin\Debug\netcoreapp3.1\Controle_De_Pedidos.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\obj\Debug\netcoreapp3.1\Controle_De_Pedidos.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\obj\Debug\netcoreapp3.1\Controle_De_Pedidos.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Controle_De_Pedidos\obj\Debug\netcoreapp3.1\Controle_De_Pedidos.genruntimeconfig.cache

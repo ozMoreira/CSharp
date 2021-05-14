@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Controle_De_Pedidos/1.0.0": {
+        "runtime": {
+          "Controle_De_Pedidos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controle_De_Pedidos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
