@@ -85,9 +85,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controle_De_Pedidos", "Cont
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaBancaria_Herança_POO", "Herança_POO\ContaBancaria_Herança_POO.csproj", "{033CB7E7-308E-4603-BE0D-D4A532281066}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_Funcionarios_POO_Heranca_Polimorfismo", "Lista_Funcionarios_POO_Heranca_Polimorfismo\Lista_Funcionarios_POO_Heranca_Polimorfismo.csproj", "{46C77405-DAF2-4BA6-AAA3-E7A5D54B55F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista_Funcionarios_POO_Heranca_Polimorfismo", "Lista_Funcionarios_POO_Heranca_Polimorfismo\Lista_Funcionarios_POO_Heranca_Polimorfismo.csproj", "{46C77405-DAF2-4BA6-AAA3-E7A5D54B55F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etiqueta_Preco_POO_Herança_Polimorfismo", "Etiqueta_Preco_POO_Herança_Polimorfismo\Etiqueta_Preco_POO_Herança_Polimorfismo.csproj", "{878AA708-2785-4EE1-9420-6D438D7A44F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Etiqueta_Preco_POO_Herança_Polimorfismo", "Etiqueta_Preco_POO_Herança_Polimorfismo\Etiqueta_Preco_POO_Herança_Polimorfismo.csproj", "{878AA708-2785-4EE1-9420-6D438D7A44F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContasBancarias_POO_ClasseAbastract", "ContasBancarias_POO_ClasseAbastract\ContasBancarias_POO_ClasseAbastract.csproj", "{6E7F726A-C5BE-4A9F-8B01-458CEC7ACD2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatoGeometrico_POO_Metodos_Abstratos", "FormatoGeometrico_POO_Metodos_Abstratos\FormatoGeometrico_POO_Metodos_Abstratos.csproj", "{43744F11-DE37-4C20-9B4A-B8C1968DFF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contribuintes_POO_Classes_Metodos_Abstratos", "Contribuintes_POO_Classes_Metodos_Abstratos\Contribuintes_POO_Classes_Metodos_Abstratos.csproj", "{7D427DB6-8731-4438-80FB-554C7FD53A13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +261,18 @@ Global
 		{878AA708-2785-4EE1-9420-6D438D7A44F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{878AA708-2785-4EE1-9420-6D438D7A44F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{878AA708-2785-4EE1-9420-6D438D7A44F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7F726A-C5BE-4A9F-8B01-458CEC7ACD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7F726A-C5BE-4A9F-8B01-458CEC7ACD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7F726A-C5BE-4A9F-8B01-458CEC7ACD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7F726A-C5BE-4A9F-8B01-458CEC7ACD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43744F11-DE37-4C20-9B4A-B8C1968DFF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43744F11-DE37-4C20-9B4A-B8C1968DFF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43744F11-DE37-4C20-9B4A-B8C1968DFF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43744F11-DE37-4C20-9B4A-B8C1968DFF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D427DB6-8731-4438-80FB-554C7FD53A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D427DB6-8731-4438-80FB-554C7FD53A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D427DB6-8731-4438-80FB-554C7FD53A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D427DB6-8731-4438-80FB-554C7FD53A13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -300,6 +318,9 @@ Global
 		{033CB7E7-308E-4603-BE0D-D4A532281066} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{46C77405-DAF2-4BA6-AAA3-E7A5D54B55F4} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 		{878AA708-2785-4EE1-9420-6D438D7A44F1} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
+		{6E7F726A-C5BE-4A9F-8B01-458CEC7ACD2D} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
+		{43744F11-DE37-4C20-9B4A-B8C1968DFF12} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
+		{7D427DB6-8731-4438-80FB-554C7FD53A13} = {4320063A-26C7-474A-AAFC-24F15A7D16AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}

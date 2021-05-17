@@ -6,7 +6,7 @@ namespace Herança_POO
     {
         static void Main(string[] args)
         {
-            Conta c = new Conta(1001, "Alex", 500.0);
+            Conta c = new Conta(1001, "Alex", 500.0); 
             //ContaCorporativa cCorp = new ContaCorporativa(1002, "Maria", 0.0, 500.00);
             
             //UPCASTING Super Classe recebe subClasse

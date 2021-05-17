@@ -10,3 +10,4 @@ C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.dll
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.pdb
 C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.genruntimeconfig.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.csprojAssemblyReference.cache

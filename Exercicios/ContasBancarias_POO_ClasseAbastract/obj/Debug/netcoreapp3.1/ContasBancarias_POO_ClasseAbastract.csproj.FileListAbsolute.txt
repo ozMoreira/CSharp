@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\bin\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\bin\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\bin\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\bin\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\bin\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\bin\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\obj\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\obj\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\obj\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\obj\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\obj\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\obj\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\ContasBancarias_POO_ClasseAbastract\obj\Debug\netcoreapp3.1\ContasBancarias_POO_ClasseAbastract.genruntimeconfig.cache

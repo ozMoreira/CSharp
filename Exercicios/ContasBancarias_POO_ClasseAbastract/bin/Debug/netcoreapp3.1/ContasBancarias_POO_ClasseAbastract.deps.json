@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ContasBancarias_POO_ClasseAbastract/1.0.0": {
+        "runtime": {
+          "ContasBancarias_POO_ClasseAbastract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContasBancarias_POO_ClasseAbastract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
