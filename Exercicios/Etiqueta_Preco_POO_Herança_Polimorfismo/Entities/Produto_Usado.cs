@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Etiqueta_Preco_POO_Herança_Polimorfismo.Entities
 {
