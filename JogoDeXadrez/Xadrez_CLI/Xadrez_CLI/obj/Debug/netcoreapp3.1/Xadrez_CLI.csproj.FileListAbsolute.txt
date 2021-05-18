@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\bin\Debug\netcoreapp3.1\Xadrez_CLI.exe
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\bin\Debug\netcoreapp3.1\Xadrez_CLI.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\bin\Debug\netcoreapp3.1\Xadrez_CLI.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\bin\Debug\netcoreapp3.1\Xadrez_CLI.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\bin\Debug\netcoreapp3.1\Xadrez_CLI.dll
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\bin\Debug\netcoreapp3.1\Xadrez_CLI.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\obj\Debug\netcoreapp3.1\Xadrez_CLI.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\obj\Debug\netcoreapp3.1\Xadrez_CLI.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\obj\Debug\netcoreapp3.1\Xadrez_CLI.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\obj\Debug\netcoreapp3.1\Xadrez_CLI.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\obj\Debug\netcoreapp3.1\Xadrez_CLI.dll
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\obj\Debug\netcoreapp3.1\Xadrez_CLI.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\JogoDeXadrez\Xadrez_CLI\Xadrez_CLI\obj\Debug\netcoreapp3.1\Xadrez_CLI.genruntimeconfig.cache
