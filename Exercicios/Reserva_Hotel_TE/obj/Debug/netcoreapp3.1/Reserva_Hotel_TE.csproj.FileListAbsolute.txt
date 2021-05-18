@@ -1,0 +1,13 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\bin\Debug\netcoreapp3.1\Reserva_Hotel_TE.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\bin\Debug\netcoreapp3.1\Reserva_Hotel_TE.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\bin\Debug\netcoreapp3.1\Reserva_Hotel_TE.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\bin\Debug\netcoreapp3.1\Reserva_Hotel_TE.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\bin\Debug\netcoreapp3.1\Reserva_Hotel_TE.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\bin\Debug\netcoreapp3.1\Reserva_Hotel_TE.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\obj\Debug\netcoreapp3.1\Reserva_Hotel_TE.csprojAssemblyReference.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\obj\Debug\netcoreapp3.1\Reserva_Hotel_TE.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\obj\Debug\netcoreapp3.1\Reserva_Hotel_TE.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\obj\Debug\netcoreapp3.1\Reserva_Hotel_TE.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\obj\Debug\netcoreapp3.1\Reserva_Hotel_TE.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\obj\Debug\netcoreapp3.1\Reserva_Hotel_TE.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Reserva_Hotel_TE\obj\Debug\netcoreapp3.1\Reserva_Hotel_TE.genruntimeconfig.cache

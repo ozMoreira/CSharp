@@ -1,0 +1,12 @@
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\bin\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.exe
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\bin\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.deps.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\bin\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.runtimeconfig.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\bin\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.runtimeconfig.dev.json
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\bin\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\bin\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\obj\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\obj\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.AssemblyInfo.cs
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\obj\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\obj\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.dll
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\obj\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.pdb
+C:\Workspace\CSharp\Exercicios\CSharp\Exercicios\Divisao_Tratativas_Excessao\obj\Debug\netcoreapp3.1\Divisao_Tratativas_Excessao.genruntimeconfig.cache

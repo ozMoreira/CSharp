@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Divisao_Tratativas_Excessao/1.0.0": {
+        "runtime": {
+          "Divisao_Tratativas_Excessao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divisao_Tratativas_Excessao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
