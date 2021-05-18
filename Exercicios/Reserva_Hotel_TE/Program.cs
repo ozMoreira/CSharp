@@ -1,4 +1,5 @@
 ﻿using Reserva_Hotel_TE.Entities;
+using Reserva_Hotel_TE.Entities.Exceptions;
 using System;
 
 namespace Reserva_Hotel_TE
@@ -7,22 +8,15 @@ namespace Reserva_Hotel_TE
     {
         static void Main(string[] args)
         {
-            Console.Write("Número do Quarto >>> ");
-            int numero = int.Parse(Console.ReadLine());
-
-            Console.Write("Data de Chegada (dd/MM/yyy) >>> ");
-            DateTime checkIn = DateTime.Parse(Console.ReadLine());
-
-            Console.Write("Data de Saída (dd/MM/yyy) >>> ");
-            DateTime checkOut = DateTime.Parse(Console.ReadLine());
-
-            if (checkOut <= checkIn)
+            try
             {
-                Console.WriteLine("\nErro na Reserva - Data de Saída tem que ser maior que a data de Entrada!");
-            }
-            else
-            {
-                Console.WriteLine("\nReserva efetuada com SUCESSO!");
+                Console.Write("Número do Quarto >>> ");
+                int numero = int.Parse(Console.ReadLine());
+                Console.Write("Data de Chegada (dd/MM/yyy) >>> ");
+                DateTime checkIn = DateTime.Parse(Console.ReadLine());
+                Console.Write("Data de Saída (dd/MM/yyy) >>> ");
+                DateTime checkOut = DateTime.Parse(Console.ReadLine());
+
                 Reserva r = new Reserva(numero, checkIn, checkOut);
                 Console.WriteLine($"Reserva: {r}.");
 
@@ -32,21 +26,23 @@ namespace Reserva_Hotel_TE
                 Console.Write("Data de Saída (dd/MM/yyy) >>> ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
-                string error = r.AtualizaDatas(checkIn, checkOut);
-                if (error != null)
-                {
-                    Console.WriteLine("\n ATENCAO - " + error);
-                }
-                else
-                {
-                    Console.WriteLine("\nReserva ATUALIZADA com SUCESSO!");
-                    r.AtualizaDatas(checkIn, checkOut);
-                    Console.WriteLine($"Reserva Atualizada: {r}.");
-                }
+                r.AtualizaDatas(checkIn, checkOut);
+                Console.WriteLine($"Reserva Atualizada: {r}.");
+            }
+            catch (DomainException e)
+            {
+                Console.WriteLine("ERRO na Reserva: " + e.Message);
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine("ERRO: >>> Número do Quarto <<< só aceita NÚMEROS");
             }
 
+            catch (Exception e) //Pega qualquer outra excessao sem deixar estourar
+            {
+                Console.WriteLine("ERRO INESPERADO: " + e.Message);
+            }
         }
-
     }
 }
 

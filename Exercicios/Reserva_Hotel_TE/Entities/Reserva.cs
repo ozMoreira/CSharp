@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Reserva_Hotel_TE.Entities.Exceptions;
+using System;
 
 namespace Reserva_Hotel_TE.Entities
 {
@@ -15,6 +16,10 @@ namespace Reserva_Hotel_TE.Entities
 
         public Reserva(int nroQuarto, DateTime checkIn, DateTime checkOut)
         {
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("\nErro na Reserva - Data de Saída tem que ser maior que a data de Entrada!");
+            }
             NroQuarto = nroQuarto;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -26,22 +31,20 @@ namespace Reserva_Hotel_TE.Entities
             return (int)duracao.TotalDays;
         }
 
-        public string AtualizaDatas(DateTime checkIn, DateTime checkOut)
+        public void AtualizaDatas(DateTime checkIn, DateTime checkOut)
         {
             DateTime now = DateTime.Now;
             if (checkIn < now || checkOut < now)
             {
-                return "IMPOSSIVEL ATUALIZAR RESERVA - DATAS PRECISAM SER MAIORES QUE HOJE";
+                throw new DomainException("IMPOSSIVEL ATUALIZAR RESERVA - DATAS PRECISAM SER MAIORES QUE HOJE");
             }
             if (checkOut <= checkIn)
             {
-                return "\nErro na Reserva - Data de Saída tem que ser maior que a data de Entrada!";
+                throw new DomainException("\nErro na Reserva - Data de Saída tem que ser maior que a data de Entrada!");
             }
 
             CheckIn = checkIn;
             CheckOut = checkOut;
-            return null; //-> indica que nao houve erro, mas é uma validação que ñão é boa prática
-
         }
 
         public override string ToString()
