@@ -12,6 +12,8 @@ namespace Xadrez_CLI
             
 
             System.Console.WriteLine("Posição: " + p);
+
+            Tela.ImprimirTabuleiro(tab);
         }
     }
 }
