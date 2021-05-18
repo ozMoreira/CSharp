@@ -26,10 +26,22 @@ namespace Reserva_Hotel_TE.Entities
             return (int)duracao.TotalDays;
         }
 
-        public void AtualizaDatas(DateTime checkIn, DateTime checkOut)
+        public string AtualizaDatas(DateTime checkIn, DateTime checkOut)
         {
+            DateTime now = DateTime.Now;
+            if (checkIn < now || checkOut < now)
+            {
+                return "IMPOSSIVEL ATUALIZAR RESERVA - DATAS PRECISAM SER MAIORES QUE HOJE";
+            }
+            if (checkOut <= checkIn)
+            {
+                return "\nErro na Reserva - Data de Saída tem que ser maior que a data de Entrada!";
+            }
+
             CheckIn = checkIn;
             CheckOut = checkOut;
+            return null; //-> indica que nao houve erro, mas é uma validação que ñão é boa prática
+
         }
 
         public override string ToString()

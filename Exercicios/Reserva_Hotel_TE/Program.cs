@@ -32,28 +32,21 @@ namespace Reserva_Hotel_TE
                 Console.Write("Data de Saída (dd/MM/yyy) >>> ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
-                if (checkIn < now || checkOut < now)
+                string error = r.AtualizaDatas(checkIn, checkOut);
+                if (error != null)
                 {
-                    Console.WriteLine("IMPOSSIVEL ATUALIZAR RESERVA - DATAS PRECISAM SER MAIORES QUE HOJE");
+                    Console.WriteLine("\n ATENCAO - " + error);
                 }
                 else
                 {
-
-                    if (checkOut <= checkIn)
-                    {
-                        Console.WriteLine("\nErro na Reserva - Data de Saída tem que ser maior que a data de Entrada!");
-                    }
-                    else
-                    {
-                        Console.WriteLine("\nReserva efetuada com SUCESSO!");
-                        r.AtualizaDatas(checkIn, checkOut);
-                        Console.WriteLine($"Reserva Atualizada: {r}.");
-                    }
+                    Console.WriteLine("\nReserva ATUALIZADA com SUCESSO!");
+                    r.AtualizaDatas(checkIn, checkOut);
+                    Console.WriteLine($"Reserva Atualizada: {r}.");
                 }
-
             }
 
         }
+
     }
 }
+
