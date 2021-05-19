@@ -14,9 +14,9 @@ namespace Tabuleiro
 
         public Tabuleiro_Jogo tab { get; protected set; }
 
-        public Peca(Posicao posicao, Cor cor, int qtdMovimentos, Tabuleiro_Jogo tab)
+        public Peca(Tabuleiro_Jogo tab, Cor cor)
         {
-            this.posicao = posicao;
+            this.posicao = null;
             this.cor = cor;
             this.tab = tab;
             this.QtdMovimentos = 0;

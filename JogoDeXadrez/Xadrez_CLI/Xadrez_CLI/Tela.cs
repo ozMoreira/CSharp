@@ -19,7 +19,6 @@ namespace Xadrez_CLI
                     {
                         Console.Write(tab.peca(l, c) + " ");
                     }
-
                 }
                 Console.WriteLine();
             }
