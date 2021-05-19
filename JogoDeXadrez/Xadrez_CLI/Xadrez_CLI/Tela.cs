@@ -5,7 +5,7 @@ namespace Xadrez_CLI
 {
     class Tela
     {
-        public static void ImprimirTabuleiro(Tabuleiro_Jogo tab)
+        public static void ImprimirTabuleiro(TabuleiroJogo tab)
         {
             for (int l = 0; l < tab.Linhas; l++)
             {

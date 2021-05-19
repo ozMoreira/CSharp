@@ -1,12 +1,12 @@
 ﻿namespace Tabuleiro
 {
-    class Tabuleiro_Jogo
+    class TabuleiroJogo
     {
         public int Linhas { get; set; }
         public int Colunas { get; set; }
         private Peca[,] pecas;
 
-        public Tabuleiro_Jogo(int linhas, int colunas)
+        public TabuleiroJogo(int linhas, int colunas)
         {
             this.Linhas = linhas;
             this.Colunas = colunas;
@@ -33,7 +33,7 @@
         {
             if (ExistePeca(pos))
             {
-                throw new Tabuleiro_Exception("Já existe uma peça nessa posição!");
+                throw new TabuleiroException("Já existe uma peça nessa posição!");
             }
             pecas[pos.Linha, pos.Coluna] = p;
             p.posicao = pos;
@@ -52,7 +52,7 @@
         {
             if (!PosicaoValida(pos))
             {
-                throw new Tabuleiro_Exception("Posição Inválida!");
+                throw new TabuleiroException("Posição Inválida!");
             }
         }
     }
