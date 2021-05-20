@@ -21,5 +21,10 @@ namespace Tabuleiro
             this.tab = tab;
             this.QtdMovimentos = 0;
         }
+
+        public void IncrementaQtdMovimentos()
+        {
+            QtdMovimentos++;
+        }
     }
 }
