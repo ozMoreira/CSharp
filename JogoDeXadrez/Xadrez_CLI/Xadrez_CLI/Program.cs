@@ -21,7 +21,14 @@ namespace Xadrez_CLI
                     Tela.ImprimirTabuleiro(partida.tab);
                     Console.Write("\nOrigem: >>> ");
                     Posicao origem = Tela.LerPosicaoXadrez().toPosicao();
-                    Console.Write("Destino: >>> ");
+
+                    bool[,] PosicoesPossiveis = partida.tab.peca(origem).MovimentosPossivels();
+
+                    Console.Clear();
+                    Tela.ImprimirTabuleiro(partida.tab, PosicoesPossiveis);
+
+                    
+                    Console.Write("\nDestino: >>> ");
                     Posicao destino = Tela.LerPosicaoXadrez().toPosicao();
 
                     partida.ExecutaMovimento(origem, destino);
