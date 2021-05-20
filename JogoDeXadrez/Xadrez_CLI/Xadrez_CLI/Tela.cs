@@ -15,6 +15,10 @@ namespace Xadrez_CLI
             ImprimirPecasCapturadas(partida);
             Console.WriteLine("\n\n Turno: " + partida.Turno);
             Console.WriteLine(" Aguardando Movimento da Peça " + partida.JogadorAtual);
+            if (partida.Xeque)
+            {
+                Console.WriteLine("\n- - - X E Q U E - - -");
+            }
         }
 
         public static void ImprimirPecasCapturadas(Partida partida)
