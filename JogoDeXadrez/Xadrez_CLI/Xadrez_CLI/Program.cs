@@ -20,9 +20,9 @@ namespace Xadrez_CLI
                     try
                     {
                         Console.Clear();
-                        Tela.ImprimirTabuleiro(partida.tab);
-                        Console.WriteLine("\n Turno: " + partida.Turno);
-                        Console.WriteLine(" Aguardando Movimento da Peça " + partida.JogadorAtual);
+                        Tela.ImprimirPartida(partida);
+                       
+                        
                         Console.Write("\nOrigem: >>> ");
                         Posicao origem = Tela.LerPosicaoXadrez().toPosicao();
                         partida.ValidaPosicaoOrigem(origem);
