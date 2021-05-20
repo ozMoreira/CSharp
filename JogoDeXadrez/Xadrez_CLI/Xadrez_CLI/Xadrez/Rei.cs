@@ -6,7 +6,7 @@ namespace Xadrez
     {
         public Rei(TabuleiroJogo tab, Cor cor) : base(tab, cor)
         {
-                
+
         }
 
         private bool PodeMover(Posicao pos)
@@ -14,12 +14,12 @@ namespace Xadrez
             Peca p = tab.peca(pos);
             return p == null || p.cor != cor;
         }
-        public override bool[,] MovimentosPossivels() 
+        public override bool[,] MovimentosPossivels()
         {
             bool[,] mat = new bool[tab.Linhas, tab.Colunas];
 
             Posicao pos = new Posicao(0, 0);
-            
+
             //Acima
             pos.DefiniValores(posicao.Linha - 1, posicao.Coluna);
             if (tab.PosicaoValida(pos) && PodeMover(pos))
@@ -74,13 +74,13 @@ namespace Xadrez
 
         public override string ToString()
         {
-           
-               // return "\u265A"; //Rei Preto
-        
-                return "\u2654"; //Rei Branco
+
+            // return "\u265A"; //Rei Preto
+
+            return "\u2654"; //Rei Branco
 
             //return "R";
-           
+
         }
     }
 }

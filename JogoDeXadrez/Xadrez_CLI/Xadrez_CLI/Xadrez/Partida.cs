@@ -4,9 +4,9 @@ namespace Xadrez
 {
     class Partida
     {
-        public TabuleiroJogo tab {get; private set;}
-        private int Turno;
-        private Cor JogadorAtual;
+        public TabuleiroJogo tab { get; private set; }
+        public int Turno { get; private set; }
+        public Cor JogadorAtual { get; private set; }
         public bool Terminada { get; private set; }
 
         public Partida()
@@ -25,6 +25,49 @@ namespace Xadrez
             tab.RetiraPeca(destino);
             Peca pecaCapturada = tab.RetiraPeca(destino);
             tab.ColocarPeca(p, destino);
+        }
+
+        public void RealizaJogada(Posicao origem, Posicao destino)
+        {
+            ExecutaMovimento(origem, destino);
+            Turno++;
+            MudaJogador();
+        }
+
+        public void ValidaPosicaoOrigem(Posicao pos)
+        {
+            if (tab.peca(pos) == null)
+            {
+                throw new TabuleiroException("Posição vazia!");
+            }
+            if (JogadorAtual != tab.peca(pos).cor)
+            {
+                throw new TabuleiroException("Aguarde seu turno para jogar!");
+            }
+            if (!tab.peca(pos).ExisteMovimentosPossiveis())
+            {
+                throw new TabuleiroException("Não há movimentos possíveis para esta peça");
+            }
+        }
+
+        public void ValidaPosicaoDestino(Posicao origem, Posicao destino)
+        {
+            if (!tab.peca(origem).PodeMoverPara(destino))
+            {
+                throw new TabuleiroException("Posição de Destino INVALIDA!");
+            }
+        }
+
+        private void MudaJogador()
+        {
+            if (JogadorAtual == Cor.Branca)
+            {
+                JogadorAtual = Cor.Preta;
+            }
+            else
+            {
+                JogadorAtual = Cor.Branca;
+            }
         }
 
         private void SobeJogo()

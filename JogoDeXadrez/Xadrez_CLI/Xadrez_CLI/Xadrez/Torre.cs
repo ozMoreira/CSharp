@@ -6,7 +6,7 @@ namespace Xadrez
     {
         public Torre(TabuleiroJogo tab, Cor cor) : base(tab, cor)
         {
-                
+
         }
 
         private bool PodeMover(Posicao pos)
@@ -22,7 +22,7 @@ namespace Xadrez
 
             //Acima
             pos.DefiniValores(posicao.Linha - 1, posicao.Coluna);
-            while(tab.PosicaoValida(pos) && PodeMover(pos))
+            while (tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (tab.peca(pos) != null && tab.peca(pos).cor != cor)

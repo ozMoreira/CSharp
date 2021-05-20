@@ -27,6 +27,27 @@ namespace Tabuleiro
             QtdMovimentos++;
         }
 
+        public bool ExisteMovimentosPossiveis()
+        {
+            bool[,] mat = MovimentosPossivels();
+            for (int l = 0; l < tab.Linhas; l++)
+            {
+                for (int c = 0; c < tab.Linhas; c++)
+                {
+                    if (mat[l, c])
+                    {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        public bool PodeMoverPara(Posicao pos)
+        {
+            return MovimentosPossivels()[pos.Linha, pos.Coluna];
+        }
+
         public abstract bool[,] MovimentosPossivels();
 
     }
