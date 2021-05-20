@@ -93,7 +93,6 @@ namespace Xadrez_CLI
         }
         public static void ImprimirPeca(Peca peca)
         {
-
             if (peca == null)
             {
                 Console.Write(" -");
