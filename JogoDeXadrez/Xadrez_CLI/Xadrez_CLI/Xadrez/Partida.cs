@@ -201,10 +201,11 @@ namespace Xadrez
                     {
                         if (mat[l, c])
                         {
+                            Posicao origem = x.posicao;
                             Posicao destino = new Posicao(l, c);
-                            Peca pecaCapturada = ExecutaMovimento(x.posicao, destino);
+                            Peca pecaCapturada = ExecutaMovimento(origem, destino);
                             bool testeXeque = EstaEmXeque(cor);
-                            DesfazMovimento(x.posicao, destino, pecaCapturada);
+                            DesfazMovimento(origem, destino, pecaCapturada);
                             if (!testeXeque)
                             {
                                 return false;
@@ -225,6 +226,14 @@ namespace Xadrez
 
         private void SobeJogo()
         {
+            //Posicao para testar xeque mate
+            ColocaNovaPeca('c', 1, new Torre(tab, Cor.Branca));
+            ColocaNovaPeca('d', 1, new Rei(tab, Cor.Branca));
+            ColocaNovaPeca('h', 7, new Torre(tab, Cor.Branca));
+
+            ColocaNovaPeca('a', 8, new Rei(tab, Cor.Preta));
+            ColocaNovaPeca('b', 8, new Torre(tab, Cor.Preta));
+            /*
             //Brancas   
             ColocaNovaPeca('c', 1, new Torre(tab, Cor.Branca));
             ColocaNovaPeca('c', 2, new Torre(tab, Cor.Branca));
@@ -240,7 +249,7 @@ namespace Xadrez
             ColocaNovaPeca('e', 7, new Torre(tab, Cor.Preta));
             ColocaNovaPeca('e', 8, new Torre(tab, Cor.Preta));
             ColocaNovaPeca('d', 8, new Rei(tab, Cor.Preta));
-
+            */
 
         }
     }
