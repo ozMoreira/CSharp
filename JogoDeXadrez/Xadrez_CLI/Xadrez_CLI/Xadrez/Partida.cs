@@ -226,6 +226,40 @@ namespace Xadrez
 
         private void SobeJogo()
         {
+            ColocaNovaPeca('a', 1, new Torre(tab, Cor.Branca));
+            ColocaNovaPeca('b', 1, new Cavalo(tab, Cor.Branca));
+            ColocaNovaPeca('c', 1, new Bispo(tab, Cor.Branca));
+            ColocaNovaPeca('d', 1, new Rainha(tab, Cor.Branca));
+            ColocaNovaPeca('e', 1, new Rei(tab, Cor.Branca));
+            ColocaNovaPeca('f', 1, new Bispo(tab, Cor.Branca));
+            ColocaNovaPeca('g', 1, new Cavalo(tab, Cor.Branca));
+            ColocaNovaPeca('h', 1, new Torre(tab, Cor.Branca));
+            ColocaNovaPeca('a', 2, new Peao(tab, Cor.Branca));
+            ColocaNovaPeca('b', 2, new Peao(tab, Cor.Branca));
+            ColocaNovaPeca('c', 2, new Peao(tab, Cor.Branca));
+            ColocaNovaPeca('d', 2, new Peao(tab, Cor.Branca));
+            ColocaNovaPeca('e', 2, new Peao(tab, Cor.Branca));
+            ColocaNovaPeca('f', 2, new Peao(tab, Cor.Branca));
+            ColocaNovaPeca('g', 2, new Peao(tab, Cor.Branca));
+            ColocaNovaPeca('h', 2, new Peao(tab, Cor.Branca));
+
+            ColocaNovaPeca('a', 8, new Torre(tab, Cor.Preta));
+            ColocaNovaPeca('b', 8, new Cavalo(tab, Cor.Preta));
+            ColocaNovaPeca('c', 8, new Bispo(tab, Cor.Preta));
+            ColocaNovaPeca('d', 8, new Rainha(tab, Cor.Preta));
+            ColocaNovaPeca('e', 8, new Rei(tab, Cor.Preta));
+            ColocaNovaPeca('f', 8, new Bispo(tab, Cor.Preta));
+            ColocaNovaPeca('g', 8, new Cavalo(tab, Cor.Preta));
+            ColocaNovaPeca('h', 8, new Torre(tab, Cor.Preta));
+            ColocaNovaPeca('a', 7, new Peao(tab, Cor.Preta));
+            ColocaNovaPeca('b', 7, new Peao(tab, Cor.Preta));
+            ColocaNovaPeca('c', 7, new Peao(tab, Cor.Preta));
+            ColocaNovaPeca('d', 7, new Peao(tab, Cor.Preta));
+            ColocaNovaPeca('e', 7, new Peao(tab, Cor.Preta));
+            ColocaNovaPeca('f', 7, new Peao(tab, Cor.Preta));
+            ColocaNovaPeca('g', 7, new Peao(tab, Cor.Preta));
+            ColocaNovaPeca('h', 7, new Peao(tab, Cor.Preta));
+            /*
             //Posicao para testar xeque mate
             ColocaNovaPeca('c', 1, new Torre(tab, Cor.Branca));
             ColocaNovaPeca('d', 1, new Rei(tab, Cor.Branca));
@@ -233,23 +267,8 @@ namespace Xadrez
 
             ColocaNovaPeca('a', 8, new Rei(tab, Cor.Preta));
             ColocaNovaPeca('b', 8, new Torre(tab, Cor.Preta));
-            /*
-            //Brancas   
-            ColocaNovaPeca('c', 1, new Torre(tab, Cor.Branca));
-            ColocaNovaPeca('c', 2, new Torre(tab, Cor.Branca));
-            ColocaNovaPeca('d', 2, new Torre(tab, Cor.Branca));
-            ColocaNovaPeca('e', 2, new Torre(tab, Cor.Branca));
-            ColocaNovaPeca('e', 1, new Torre(tab, Cor.Branca));
-            ColocaNovaPeca('d', 1, new Rei(tab, Cor.Branca));
-
-            //Pretas
-            ColocaNovaPeca('c', 7, new Torre(tab, Cor.Preta));
-            ColocaNovaPeca('c', 8, new Torre(tab, Cor.Preta));
-            ColocaNovaPeca('d', 7, new Torre(tab, Cor.Preta));
-            ColocaNovaPeca('e', 7, new Torre(tab, Cor.Preta));
-            ColocaNovaPeca('e', 8, new Torre(tab, Cor.Preta));
-            ColocaNovaPeca('d', 8, new Rei(tab, Cor.Preta));
             */
+
 
         }
     }
