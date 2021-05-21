@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files_StreamReader", "Files
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File3_UsingBlock", "File3_UsingBlock\File3_UsingBlock.csproj", "{4B2ECBF3-8615-47C2-A130-86E645D04701}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos4_StreamWriter", "Arquivos4_StreamWriter\Arquivos4_StreamWriter.csproj", "{9FBC9467-1AEE-4A3C-ACE5-3E224207D167}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{4B2ECBF3-8615-47C2-A130-86E645D04701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B2ECBF3-8615-47C2-A130-86E645D04701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B2ECBF3-8615-47C2-A130-86E645D04701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBC9467-1AEE-4A3C-ACE5-3E224207D167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBC9467-1AEE-4A3C-ACE5-3E224207D167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBC9467-1AEE-4A3C-ACE5-3E224207D167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBC9467-1AEE-4A3C-ACE5-3E224207D167}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -369,6 +375,7 @@ Global
 		{9547F654-9348-45F9-A948-27F579A5224C} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
 		{C75F12F0-8B9A-4F72-82A9-E97C79AB16BC} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
 		{4B2ECBF3-8615-47C2-A130-86E645D04701} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
+		{9FBC9467-1AEE-4A3C-ACE5-3E224207D167} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
