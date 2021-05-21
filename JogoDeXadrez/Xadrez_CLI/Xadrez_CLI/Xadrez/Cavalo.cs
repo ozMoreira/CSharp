@@ -1,4 +1,4 @@
-﻿using Tabuleiro;
+﻿    using Tabuleiro;
 
 namespace Xadrez
 {
@@ -57,7 +57,7 @@ namespace Xadrez
                 mat[pos.Linha, pos.Coluna] = true;
             }
 
-            pos.DefiniValores(posicao.Linha + 2, posicao.Coluna + 1);
+            pos.DefiniValores(posicao.Linha + 2, posicao.Coluna - 1);
             if (tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;

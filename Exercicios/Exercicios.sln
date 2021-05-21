@@ -91,19 +91,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Etiqueta_Preco_POO_Herança
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContasBancarias_POO_ClasseAbastract", "ContasBancarias_POO_ClasseAbastract\ContasBancarias_POO_ClasseAbastract.csproj", "{6E7F726A-C5BE-4A9F-8B01-458CEC7ACD2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatoGeometrico_POO_Metodos_Abstratos", "FormatoGeometrico_POO_Metodos_Abstratos\FormatoGeometrico_POO_Metodos_Abstratos.csproj", "{43744F11-DE37-4C20-9B4A-B8C1968DFF12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormatoGeometrico_POO_Metodos_Abstratos", "FormatoGeometrico_POO_Metodos_Abstratos\FormatoGeometrico_POO_Metodos_Abstratos.csproj", "{43744F11-DE37-4C20-9B4A-B8C1968DFF12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contribuintes_POO_Classes_Metodos_Abstratos", "Contribuintes_POO_Classes_Metodos_Abstratos\Contribuintes_POO_Classes_Metodos_Abstratos.csproj", "{7D427DB6-8731-4438-80FB-554C7FD53A13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contribuintes_POO_Classes_Metodos_Abstratos", "Contribuintes_POO_Classes_Metodos_Abstratos\Contribuintes_POO_Classes_Metodos_Abstratos.csproj", "{7D427DB6-8731-4438-80FB-554C7FD53A13}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemplos_Tratativas_Excessao", "Exemplos_Tratativas_Excessao", "{8C72D3A8-D45A-48F0-8881-D5EF4E00407A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisao_Tratativas_Excessao", "Divisao_Tratativas_Excessao\Divisao_Tratativas_Excessao.csproj", "{50194E9C-05D8-40FE-A008-C6CEA077083D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divisao_Tratativas_Excessao", "Divisao_Tratativas_Excessao\Divisao_Tratativas_Excessao.csproj", "{50194E9C-05D8-40FE-A008-C6CEA077083D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reserva_Hotel_TE", "Reserva_Hotel_TE\Reserva_Hotel_TE.csproj", "{BFAFC55D-08BB-47FF-B389-3DFF681DB303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reserva_Hotel_TE", "Reserva_Hotel_TE\Reserva_Hotel_TE.csproj", "{BFAFC55D-08BB-47FF-B389-3DFF681DB303}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicios_Tratativas_Excessao", "Exercicios_Tratativas_Excessao", "{B041A085-6420-4F08-8C58-52517771BD6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacaoBancaria_Tratativa_Excessao", "OperacaoBancaria_Tratativa_Excessao\OperacaoBancaria_Tratativa_Excessao.csproj", "{E66F2500-F5FF-46BF-9DB8-E4FAE2D98A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperacaoBancaria_Tratativa_Excessao", "OperacaoBancaria_Tratativa_Excessao\OperacaoBancaria_Tratativa_Excessao.csproj", "{E66F2500-F5FF-46BF-9DB8-E4FAE2D98A45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemplos_Files", "Exemplos_Files", "{4F2C595F-814A-4603-88DA-787B6D8E0DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos1", "Arquivos1\Arquivos1.csproj", "{9547F654-9348-45F9-A948-27F579A5224C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -295,6 +299,10 @@ Global
 		{E66F2500-F5FF-46BF-9DB8-E4FAE2D98A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E66F2500-F5FF-46BF-9DB8-E4FAE2D98A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E66F2500-F5FF-46BF-9DB8-E4FAE2D98A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9547F654-9348-45F9-A948-27F579A5224C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9547F654-9348-45F9-A948-27F579A5224C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9547F654-9348-45F9-A948-27F579A5224C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9547F654-9348-45F9-A948-27F579A5224C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -346,6 +354,7 @@ Global
 		{50194E9C-05D8-40FE-A008-C6CEA077083D} = {8C72D3A8-D45A-48F0-8881-D5EF4E00407A}
 		{BFAFC55D-08BB-47FF-B389-3DFF681DB303} = {8C72D3A8-D45A-48F0-8881-D5EF4E00407A}
 		{E66F2500-F5FF-46BF-9DB8-E4FAE2D98A45} = {B041A085-6420-4F08-8C58-52517771BD6E}
+		{9547F654-9348-45F9-A948-27F579A5224C} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}

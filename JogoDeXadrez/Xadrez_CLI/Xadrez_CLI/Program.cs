@@ -9,7 +9,6 @@ namespace Xadrez_CLI
     {
         static void Main(string[] args)
         {
-
             try
             {
                 Console.OutputEncoding = Encoding.UTF8;
