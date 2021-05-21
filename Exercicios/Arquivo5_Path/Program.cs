@@ -17,6 +17,8 @@ namespace Arquivo5_Path
             Console.WriteLine("GetExtension: " + Path.GetExtension(path));
             Console.WriteLine("GetFullPath: " + Path.GetFullPath(path));
             Console.WriteLine("GetTempPath: " + Path.GetTempPath());
+            var alvo = Path.GetFullPath(path + @"\" + "EstoqueInput" + ".csv");
+            Console.WriteLine(alvo);
 
         }
     }

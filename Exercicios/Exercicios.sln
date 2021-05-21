@@ -119,6 +119,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files5_Directory_DirecInfo"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files6_Path", "Arquivo5_Path\Files6_Path.csproj", "{BED1CDEA-BD20-4957-9B84-CAA260DEA337}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicios_Arquivos", "Exercicios_Arquivos", "{E304C211-1C85-4FBD-BBBB-577CF0DCDDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Export_Estoque", "Export_Estoque\Export_Estoque.csproj", "{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +337,10 @@ Global
 		{BED1CDEA-BD20-4957-9B84-CAA260DEA337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED1CDEA-BD20-4957-9B84-CAA260DEA337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED1CDEA-BD20-4957-9B84-CAA260DEA337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -390,6 +398,7 @@ Global
 		{9FBC9467-1AEE-4A3C-ACE5-3E224207D167} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
 		{8F683EC8-F7D1-4279-BC9B-6AA360D8569C} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
 		{BED1CDEA-BD20-4957-9B84-CAA260DEA337} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
+		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B} = {E304C211-1C85-4FBD-BBBB-577CF0DCDDCC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}

@@ -19,7 +19,7 @@ namespace Arquivos_Directory_DirecInfo
                     Console.WriteLine(folder);
                 }
 
-                var files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
+                var files = Directory.EnumerateFiles(path, "EstoqueInput" + ".csv");
                 Console.WriteLine("\nFILES: ");
                 foreach (string file in files)
                 {
