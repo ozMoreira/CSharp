@@ -107,21 +107,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperacaoBancaria_Tratativa_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemplos_Files", "Exemplos_Files", "{4F2C595F-814A-4603-88DA-787B6D8E0DB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files1", "Arquivos1\Files1.csproj", "{9547F654-9348-45F9-A948-27F579A5224C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files1", "Arquivos1\Files1.csproj", "{9547F654-9348-45F9-A948-27F579A5224C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files2_StreamReader", "Files_StreamReader\Files2_StreamReader.csproj", "{C75F12F0-8B9A-4F72-82A9-E97C79AB16BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files2_StreamReader", "Files_StreamReader\Files2_StreamReader.csproj", "{C75F12F0-8B9A-4F72-82A9-E97C79AB16BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files3_UsingBlock", "File3_UsingBlock\Files3_UsingBlock.csproj", "{4B2ECBF3-8615-47C2-A130-86E645D04701}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files3_UsingBlock", "File3_UsingBlock\Files3_UsingBlock.csproj", "{4B2ECBF3-8615-47C2-A130-86E645D04701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files4_StreamWriter", "Arquivos4_StreamWriter\Files4_StreamWriter.csproj", "{9FBC9467-1AEE-4A3C-ACE5-3E224207D167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files4_StreamWriter", "Arquivos4_StreamWriter\Files4_StreamWriter.csproj", "{9FBC9467-1AEE-4A3C-ACE5-3E224207D167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files5_Directory_DirecInfo", "Arquivos_Directory_DirecInfo\Files5_Directory_DirecInfo.csproj", "{8F683EC8-F7D1-4279-BC9B-6AA360D8569C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files5_Directory_DirecInfo", "Arquivos_Directory_DirecInfo\Files5_Directory_DirecInfo.csproj", "{8F683EC8-F7D1-4279-BC9B-6AA360D8569C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files6_Path", "Arquivo5_Path\Files6_Path.csproj", "{BED1CDEA-BD20-4957-9B84-CAA260DEA337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files6_Path", "Arquivo5_Path\Files6_Path.csproj", "{BED1CDEA-BD20-4957-9B84-CAA260DEA337}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicios_Arquivos", "Exercicios_Arquivos", "{E304C211-1C85-4FBD-BBBB-577CF0DCDDCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Export_Estoque", "Export_Estoque\Export_Estoque.csproj", "{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Export_Estoque", "Export_Estoque\Export_Estoque.csproj", "{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental_POO_SemInterface", "CarRental_POO_SemInterface\CarRental_POO_SemInterface.csproj", "{1701A257-E820-44C2-A91C-D959FD5D782C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental_POO_ComInterface", "CarRental_POO_ComInterface\CarRental_POO_ComInterface.csproj", "{1C81FB99-BEDA-4D27-A879-59A555D37B06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -341,6 +345,14 @@ Global
 		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1701A257-E820-44C2-A91C-D959FD5D782C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1701A257-E820-44C2-A91C-D959FD5D782C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1701A257-E820-44C2-A91C-D959FD5D782C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1701A257-E820-44C2-A91C-D959FD5D782C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C81FB99-BEDA-4D27-A879-59A555D37B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C81FB99-BEDA-4D27-A879-59A555D37B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C81FB99-BEDA-4D27-A879-59A555D37B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C81FB99-BEDA-4D27-A879-59A555D37B06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -399,6 +411,8 @@ Global
 		{8F683EC8-F7D1-4279-BC9B-6AA360D8569C} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
 		{BED1CDEA-BD20-4957-9B84-CAA260DEA337} = {4F2C595F-814A-4603-88DA-787B6D8E0DB0}
 		{F2FB8EF7-9167-4AC8-9ADB-9D1030E5136B} = {E304C211-1C85-4FBD-BBBB-577CF0DCDDCC}
+		{1701A257-E820-44C2-A91C-D959FD5D782C} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
+		{1C81FB99-BEDA-4D27-A879-59A555D37B06} = {CE9409C8-7C3B-491D-9991-64CF63C8B5CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4A6511D2-E3C5-4D15-9795-1E0C4500548E}
